@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>289_b.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2965" LABEL="Stamp:graphic" DESCRIPTION="block type Stamp:graphic"/><OtherTag ID="BT2964" LABEL="Stamp:manuscript" DESCRIPTION="block type Stamp:manuscript"/><OtherTag ID="BT2956" LABEL="Note" DESCRIPTION="block type Note"/><OtherTag ID="BT2955" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT2954" LABEL="Additions:numbering" DESCRIPTION="block type Additions:numbering"/><OtherTag ID="BT2953" LABEL="Additions:id" DESCRIPTION="block type Additions:id"/><OtherTag ID="BT2895" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT2892" LABEL="Dateline" DESCRIPTION="block type Dateline"/><OtherTag ID="BT2891" LABEL="Salute" DESCRIPTION="block type Salute"/><OtherTag ID="BT2890" LABEL="Address" DESCRIPTION="block type Address"/><OtherTag ID="BT2888" LABEL="Letterhead" DESCRIPTION="block type Letterhead"/><OtherTag ID="BT2886" LABEL="Signature" DESCRIPTION="block type Signature"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/>
+    <OtherTag ID="LT1050" LABEL="InterlinearLine:commentary" DESCRIPTION="line type InterlinearLine:commentary"/><OtherTag ID="LT1049" LABEL="InterlinearLine:correction" DESCRIPTION="line type InterlinearLine:correction"/><OtherTag ID="LT1032" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2441"
+          HEIGHT="2984"
+          PHYSICAL_IMG_NR="10"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2441"
+                  HEIGHT="2984">
+        
+        <TextBlock HPOS="79"
+                   VPOS="100"
+                   WIDTH="2312"
+                   HEIGHT="733"
+                   ID="eSc_textblock_fa945b8b"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="2391 634 2361 723 1507 763 1082 743 930 833 79 833 119 129 2001 100 2253 144 2352 160 2358 213 2379 260"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1736"
+                   VPOS="2824"
+                   WIDTH="336"
+                   HEIGHT="87"
+                   ID="eSc_textblock_071c8915"
+                   TAGREFS="BT2953">
+          <Shape><Polygon POINTS="1736 2911 1746 2834 1846 2824 2052 2834 2072 2901"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="2269"
+                   VPOS="89"
+                   WIDTH="71"
+                   HEIGHT="43"
+                   ID="eSc_textblock_743fcf93"
+                   TAGREFS="BT2954">
+          <Shape><Polygon POINTS="2269 89 2269 132 2340 132 2340 89"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
