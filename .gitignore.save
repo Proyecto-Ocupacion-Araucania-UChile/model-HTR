@@ -1,4 +1,4 @@
 *.jpg
 *__pycache__*
-*env
-.idea
+*.
+env*
