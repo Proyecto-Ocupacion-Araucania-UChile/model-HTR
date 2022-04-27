@@ -295,17 +295,6 @@
 
           
         </TextBlock>
-        
-        <TextBlock HPOS="2196"
-                   VPOS="179"
-                   WIDTH="142"
-                   HEIGHT="109"
-                   ID="eSc_textblock_64e47687"
-                   TAGREFS="BT2955">
-          <Shape><Polygon POINTS="2273 179 2196 288 2338 288 2300 197"/></Shape>
-          
-        </TextBlock>
-        
 
         
       </PrintSpace>
