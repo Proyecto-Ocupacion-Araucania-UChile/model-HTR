@@ -11,7 +11,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT3007" LABEL="Note" DESCRIPTION="block type Note"/><OtherTag ID="BT3006" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT3005" LABEL="Letterhead" DESCRIPTION="block type Letterhead"/><OtherTag ID="BT3004" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT3003" LABEL="Dateline" DESCRIPTION="block type Dateline"/><OtherTag ID="BT3002" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT3001" LABEL="Address" DESCRIPTION="block type Address"/><OtherTag ID="BT3000" LABEL="Additions:numbering" DESCRIPTION="block type Additions:numbering"/><OtherTag ID="BT2999" LABEL="Additions:id" DESCRIPTION="block type Additions:id"/><OtherTag ID="BT3013" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT3012" LABEL="Stamp:manuscript" DESCRIPTION="block type Stamp:manuscript"/><OtherTag ID="BT3011" LABEL="Stamp:graphic" DESCRIPTION="block type Stamp:graphic"/><OtherTag ID="BT3009" LABEL="Signature" DESCRIPTION="block type Signature"/><OtherTag ID="BT3008" LABEL="Salute" DESCRIPTION="block type Salute"/>
+    <OtherTag ID="BT3083" LABEL="NumberingZone:other" DESCRIPTION="block type NumberingZone:other"/><OtherTag ID="BT3082" LABEL="CustomZone#Object" DESCRIPTION="block type CustomZone#Object"/><OtherTag ID="BT3071" LABEL="QuireMarksZone:signature" DESCRIPTION="block type QuireMarksZone:signature"/><OtherTag ID="BT3070" LABEL="NumberingZone:id" DESCRIPTION="block type NumberingZone:id"/><OtherTag ID="BT3069" LABEL="NumberingZone:page" DESCRIPTION="block type NumberingZone:page"/><OtherTag ID="BT3068" LABEL="MarginTextZone:note" DESCRIPTION="block type MarginTextZone:note"/><OtherTag ID="BT3081" LABEL="CustomZone#Dateline" DESCRIPTION="block type CustomZone#Dateline"/><OtherTag ID="BT3080" LABEL="CustomZone#Address" DESCRIPTION="block type CustomZone#Address"/><OtherTag ID="BT3079" LABEL="MainZone#Text" DESCRIPTION="block type MainZone#Text"/><OtherTag ID="BT3078" LABEL="MainZone#SaluteConclude" DESCRIPTION="block type MainZone#SaluteConclude"/><OtherTag ID="BT3077" LABEL="MainZone#SaluteIntro" DESCRIPTION="block type MainZone#SaluteIntro"/><OtherTag ID="BT3076" LABEL="StampZone:graphic" DESCRIPTION="block type StampZone:graphic"/><OtherTag ID="BT3075" LABEL="StampZone:manuscript" DESCRIPTION="block type StampZone:manuscript"/><OtherTag ID="BT3074" LABEL="MarginTextZone:letterhead" DESCRIPTION="block type MarginTextZone:letterhead"/><OtherTag ID="BT3073" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT3072" LABEL="MarginTextZone:commentary" DESCRIPTION="block type MarginTextZone:commentary"/><OtherTag ID="BT3004" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT3002" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/>
     <OtherTag ID="LT1066" LABEL="InterlinearLine:correction" DESCRIPTION="line type InterlinearLine:correction"/><OtherTag ID="LT1065" LABEL="InterlinearLine:commentary" DESCRIPTION="line type InterlinearLine:commentary"/><OtherTag ID="LT1064" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
   </Tags>
   
@@ -30,7 +30,7 @@
                    WIDTH="828"
                    HEIGHT="200"
                    ID="eSc_textblock_4bb4b7de"
-                   TAGREFS="BT3001">
+                   TAGREFS="BT3080">
           <Shape><Polygon POINTS="1368 431 656 441 540 345 560 241 721 250 762 318 878 357 1320 347"/></Shape>
           
           
@@ -74,7 +74,7 @@
                    WIDTH="923"
                    HEIGHT="154"
                    ID="eSc_textblock_f6717174"
-                   TAGREFS="BT3008">
+                   TAGREFS="BT3077">
           <Shape><Polygon POINTS="560 849 608 810 1368 810 1483 906 808 904 718 964 726 904 568 904"/></Shape>
           
           
@@ -101,7 +101,7 @@
                    WIDTH="2217"
                    HEIGHT="1831"
                    ID="eSc_textblock_13630ad1"
-                   TAGREFS="BT">
+                   TAGREFS="BT3079">
           <Shape><Polygon POINTS="2411 1061 2431 1457 2402 2632 1323 2632 1040 2719 721 2748 222 2710 214 1191 241 1042 548 1003 553 1000 553 1010 1229 1010 1229 921 1505 921 1505 917 2305 917 2363 946"/></Shape>
           
           
@@ -400,7 +400,7 @@
                    WIDTH="974"
                    HEIGHT="213"
                    ID="eSc_textblock_836ff5cd"
-                   TAGREFS="BT">
+                   TAGREFS="BT3002">
           <Shape><Polygon POINTS="447 1097 489 1304 1419 1310 1421 1115"/></Shape>
           
           
@@ -444,7 +444,7 @@
                    WIDTH="1088"
                    HEIGHT="152"
                    ID="eSc_textblock_9b649f3d"
-                   TAGREFS="BT3003">
+                   TAGREFS="BT3081">
           <Shape><Polygon POINTS="1709 644 1535 682 1352 634 1381 530 2325 550 2421 559 2440 615 2402 654"/></Shape>
           
           
@@ -471,7 +471,7 @@
                    WIDTH="85"
                    HEIGHT="74"
                    ID="eSc_textblock_2dd5c7be"
-                   TAGREFS="BT3000">
+                   TAGREFS="BT3083">
           <Shape><Polygon POINTS="2037 267 2037 193 2122 193 2122 267"/></Shape>
           
           
@@ -498,7 +498,7 @@
                    WIDTH="32"
                    HEIGHT="46"
                    ID="eSc_textblock_2033b2f5"
-                   TAGREFS="BT3000">
+                   TAGREFS="BT3069">
           <Shape><Polygon POINTS="2291 124 2291 170 2323 170 2323 124"/></Shape>
           
           

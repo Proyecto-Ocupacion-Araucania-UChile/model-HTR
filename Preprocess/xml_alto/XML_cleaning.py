@@ -18,7 +18,7 @@ superscript_map = {
 current_dir = os.path.dirname(os.path.abspath(__file__))
 
 #List regex pattern
-superscript_pattern = re.compile(r"\^[A-Za-zÀ-ÖØ-öø-ÿ -]+\^")
+superscript_pattern = re.compile(r"\^([A-Za-zÀ-ÖØ-öø-ÿ -])")
 correction_read_pattern = re.compile(r"\[\[[A-Za-zÀ-ÖØ-öø-ÿ -]+\|[A-Za-zÀ-ÖØ-öø-ÿ -]+]]")
 correction_pattern = re.compile(r"\[\[([A-Za-zÀ-ÖØ-öø-ÿ -])*]]")
 unreadable_pattern = re.compile(r"-\[([A-z -]*)]-")
@@ -31,9 +31,7 @@ def clean_model():
         with open(os.path.join(current_dir, ALTO_BRUT, file), 'r') as f:
             xml = f.read()
             for lines in xml.split('\n'):
-                match = re.search(superscript_pattern, lines)
-                if match:
-                    print(match.groups().split())
+                print(re.sub(unreadable_pattern, "\\1", lines))
 
 
 if __name__ == '__main__':

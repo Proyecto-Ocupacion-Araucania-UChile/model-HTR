@@ -11,7 +11,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT2998" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2997" LABEL="Stamp:manuscript" DESCRIPTION="block type Stamp:manuscript"/><OtherTag ID="BT2996" LABEL="Stamp:graphic" DESCRIPTION="block type Stamp:graphic"/><OtherTag ID="BT2994" LABEL="Signature" DESCRIPTION="block type Signature"/><OtherTag ID="BT2993" LABEL="Salute" DESCRIPTION="block type Salute"/><OtherTag ID="BT2992" LABEL="Note" DESCRIPTION="block type Note"/><OtherTag ID="BT2991" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT2990" LABEL="Letterhead" DESCRIPTION="block type Letterhead"/><OtherTag ID="BT2989" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT2988" LABEL="Dateline" DESCRIPTION="block type Dateline"/><OtherTag ID="BT2987" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT2986" LABEL="Address" DESCRIPTION="block type Address"/><OtherTag ID="BT2985" LABEL="Additions:numbering" DESCRIPTION="block type Additions:numbering"/><OtherTag ID="BT2984" LABEL="Additions:id" DESCRIPTION="block type Additions:id"/>
+    <OtherTag ID="BT3103" LABEL="CustomZone#Object" DESCRIPTION="block type CustomZone#Object"/><OtherTag ID="BT3102" LABEL="CustomZone#Dateline" DESCRIPTION="block type CustomZone#Dateline"/><OtherTag ID="BT3101" LABEL="CustomZone#Address" DESCRIPTION="block type CustomZone#Address"/><OtherTag ID="BT3116" LABEL="StampZone:manuscript" DESCRIPTION="block type StampZone:manuscript"/><OtherTag ID="BT3115" LABEL="StampZone:graphic" DESCRIPTION="block type StampZone:graphic"/><OtherTag ID="BT3114" LABEL="QuireMarksZone:signature" DESCRIPTION="block type QuireMarksZone:signature"/><OtherTag ID="BT3113" LABEL="NumberingZone:page" DESCRIPTION="block type NumberingZone:page"/><OtherTag ID="BT3112" LABEL="NumberingZone:other" DESCRIPTION="block type NumberingZone:other"/><OtherTag ID="BT3111" LABEL="NumberingZone:id" DESCRIPTION="block type NumberingZone:id"/><OtherTag ID="BT3110" LABEL="MarginTextZone:note" DESCRIPTION="block type MarginTextZone:note"/><OtherTag ID="BT3109" LABEL="MarginTextZone:letterhead" DESCRIPTION="block type MarginTextZone:letterhead"/><OtherTag ID="BT3108" LABEL="MarginTextZone:commentary" DESCRIPTION="block type MarginTextZone:commentary"/><OtherTag ID="BT3107" LABEL="MainZone#Text" DESCRIPTION="block type MainZone#Text"/><OtherTag ID="BT3106" LABEL="MainZone#SaluteIntro" DESCRIPTION="block type MainZone#SaluteIntro"/><OtherTag ID="BT3105" LABEL="MainZone#SaluteConclude" DESCRIPTION="block type MainZone#SaluteConclude"/><OtherTag ID="BT2989" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT2987" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/>
     <OtherTag ID="LT1063" LABEL="InterlinearLine:correction" DESCRIPTION="line type InterlinearLine:correction"/><OtherTag ID="LT1062" LABEL="InterlinearLine:commentary" DESCRIPTION="line type InterlinearLine:commentary"/><OtherTag ID="LT1061" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
   </Tags>
   
@@ -30,7 +30,7 @@
                    WIDTH="797"
                    HEIGHT="280"
                    ID="eSc_textblock_44d753c7"
-                   TAGREFS="BT2997">
+                   TAGREFS="BT3116">
           <Shape><Polygon POINTS="209 673 184 467 221 430 845 430 981 621 944 698 882 710"/></Shape>
           
           
@@ -42,7 +42,7 @@
                     WIDTH="535"
                     HEIGHT="139">
             <Shape><Polygon POINTS="199 544 190 470 236 442 239 442 239 442 239 442 242 442 242 442 246 442 292 442 292 442 292 442 295 442 295 442 295 442 298 442 298 442 322 464 332 473 461 473 507 455 532 445 532 445 535 445 535 445 538 445 538 445 538 445 568 452 627 464 719 445 725 550 719 581 193 565"/></Shape>
-	    <String CONTENT="Comand^a^ de"
+	    <String CONTENT="Comand^a de"
                     HPOS="190"
                     VPOS="442"
                     WIDTH="535"
@@ -74,7 +74,7 @@
                    WIDTH="452"
                    HEIGHT="104"
                    ID="eSc_textblock_9ce4f8c6"
-                   TAGREFS="BT2992">
+                   TAGREFS="BT3108">
           <Shape><Polygon POINTS="437 1237 479 1193 541 1180 587 1193 575 1263 135 1274 184 1170"/></Shape>
           
           
@@ -101,7 +101,7 @@
                    WIDTH="1323"
                    HEIGHT="169"
                    ID="eSc_textblock_bfc23bed"
-                   TAGREFS="BT2988">
+                   TAGREFS="BT3102">
           <Shape><Polygon POINTS="1057 615 1144 565 1608 553 2269 578 2368 602 2380 648 2355 710 2097 722 1070 698"/></Shape>
           
           
@@ -128,7 +128,7 @@
                    WIDTH="1790"
                    HEIGHT="1712"
                    ID="eSc_textblock_3a85cff3"
-                   TAGREFS="BT2991">
+                   TAGREFS="BT3107">
           <Shape><Polygon POINTS="1190 2555 725 2506 713 1672 676 1608 728 1349 701 1180 824 1017 848 897 910 873 2454 971 2466 2407 2195 2546 2190 2566 1640 2566 1601 2585 1576 2566 1209 2566"/></Shape>
           
           
@@ -361,7 +361,7 @@
                     WIDTH="1289"
                     HEIGHT="187">
             <Shape><Polygon POINTS="735 2481 728 2426 821 2392 824 2392 824 2392 824 2392 827 2392 885 2395 885 2395 885 2395 888 2395 888 2395 888 2395 956 2432 962 2435 974 2432 1076 2404 1079 2404 1079 2404 1082 2404 1082 2404 1082 2404 1085 2404 1085 2404 1085 2404 1088 2404 1088 2404 1088 2407 1091 2407 1101 2423 1347 2423 1347 2423 1347 2423 1350 2423 1350 2423 1353 2423 1387 2444 1402 2453 1417 2444 1442 2429 1445 2429 1445 2429 1445 2429 1448 2429 1448 2429 1451 2429 1451 2429 1451 2429 1454 2429 1503 2444 1540 2426 1540 2426 1540 2426 1543 2426 1543 2426 1543 2426 1546 2426 1546 2426 1550 2426 1550 2426 1550 2426 1553 2426 1553 2426 1553 2429 1556 2429 1571 2447 1583 2466 1669 2466 1694 2453 1713 2438 1716 2438 1716 2438 1716 2438 1719 2438 1719 2438 1719 2438 1722 2438 1722 2438 1725 2438 1725 2438 1725 2438 1728 2438 1728 2438 1746 2453 1774 2472 2014 2463 2017 2533 2014 2558 1909 2579 1909 2579 1909 2579 1906 2579 1906 2579 1903 2579 1903 2579 1903 2579 1900 2579 1863 2555 1759 2570 1759 2570 1756 2570 1756 2570 1756 2570 1752 2570 1694 2552 1626 2570 1623 2570 1623 2570 1620 2570 1620 2570 1334 2533 1325 2533 1325 2533 1294 2549 1294 2549 1294 2549 1291 2549 1291 2549 1291 2549 1288 2549 1288 2549 1285 2549 1285 2549 1233 2530 1217 2524 1193 2527 1101 2546 1101 2546 1097 2546 1097 2546 1097 2546 1094 2546 1094 2546 1039 2521 1024 2515 1011 2521 984 2539 981 2539 981 2539 981 2539 977 2539 977 2539 974 2539 974 2539 974 2539 971 2539 971 2539 971 2539 968 2539 968 2539 968 2536 950 2518 728 2509"/></Shape>
-	    <String CONTENT="Sñr Intend^te^ dela prov^a^ ."
+	    <String CONTENT="Sñr Intend^t^e dela prov^a."
                     HPOS="728"
                     VPOS="2392"
                     WIDTH="1289"
@@ -376,7 +376,7 @@
                    WIDTH="73"
                    HEIGHT="84"
                    ID="eSc_textblock_52346f09"
-                   TAGREFS="BT2985">
+                   TAGREFS="BT3113">
           <Shape><Polygon POINTS="2276 106 2276 190 2349 190 2349 106"/></Shape>
           
           
@@ -403,7 +403,7 @@
                    WIDTH="959"
                    HEIGHT="144"
                    ID="eSc_textblock_1d256971"
-                   TAGREFS="BT2993">
+                   TAGREFS="BT3105">
           <Shape><Polygon POINTS="1288 2715 1276 2607 1256 2595 2184 2595 2171 2653 2215 2713 1533 2736 1413 2739"/></Shape>
           
           
@@ -430,7 +430,7 @@
                    WIDTH="1408"
                    HEIGHT="402"
                    ID="eSc_textblock_089f7844"
-                   TAGREFS="BT2986">
+                   TAGREFS="BT3101">
           <Shape><Polygon POINTS="624 3391 123 3416 159 3342 147 3099 233 3038 1433 3087 1506 3124 1531 3305 1457 3440"/></Shape>
           
           
@@ -442,7 +442,7 @@
                     WIDTH="1144"
                     HEIGHT="151">
             <Shape><Polygon POINTS="147 3167 147 3087 206 3099 221 3087 258 3056 258 3053 261 3053 261 3053 261 3053 264 3053 264 3053 267 3053 445 3053 445 3053 445 3053 449 3053 449 3053 449 3053 452 3053 495 3087 532 3111 565 3087 612 3053 615 3053 615 3053 615 3053 618 3053 618 3053 621 3053 673 3053 673 3053 673 3053 676 3053 676 3053 676 3053 679 3053 679 3056 713 3087 731 3102 753 3093 753 3093 756 3093 756 3093 756 3093 759 3093 759 3093 762 3093 762 3093 762 3093 805 3118 1073 3118 1107 3087 1128 3068 1128 3065 1128 3065 1131 3065 1131 3065 1134 3065 1134 3065 1134 3065 1137 3065 1137 3065 1285 3087 1288 3173 1282 3182 1174 3182 1168 3185 1128 3204 1128 3204 1125 3204 1125 3204 1125 3204 1122 3204 808 3185 691 3179 144 3185"/></Shape>
-	    <String CONTENT="Al Señor Comand^te^ en Jefe"
+	    <String CONTENT="Al Señor Comand^t^e en Jefe"
                     HPOS="144"
                     VPOS="3053"
                     WIDTH="1144"
@@ -491,7 +491,7 @@
                    WIDTH="1301"
                    HEIGHT="290"
                    ID="eSc_textblock_62c961ff"
-                   TAGREFS="BT">
+                   TAGREFS="BT3114">
           <Shape><Polygon POINTS="1057 3026 1017 2909 1485 2912 1482 2752 1467 2749 1672 2736 2242 2749 2318 2853 2257 2985"/></Shape>
           
           

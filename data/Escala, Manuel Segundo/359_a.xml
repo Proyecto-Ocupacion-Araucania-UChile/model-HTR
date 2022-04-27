@@ -11,7 +11,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT3007" LABEL="Note" DESCRIPTION="block type Note"/><OtherTag ID="BT3006" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT3005" LABEL="Letterhead" DESCRIPTION="block type Letterhead"/><OtherTag ID="BT3004" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT3003" LABEL="Dateline" DESCRIPTION="block type Dateline"/><OtherTag ID="BT3002" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT3001" LABEL="Address" DESCRIPTION="block type Address"/><OtherTag ID="BT3000" LABEL="Additions:numbering" DESCRIPTION="block type Additions:numbering"/><OtherTag ID="BT2999" LABEL="Additions:id" DESCRIPTION="block type Additions:id"/><OtherTag ID="BT3013" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT3012" LABEL="Stamp:manuscript" DESCRIPTION="block type Stamp:manuscript"/><OtherTag ID="BT3011" LABEL="Stamp:graphic" DESCRIPTION="block type Stamp:graphic"/><OtherTag ID="BT3009" LABEL="Signature" DESCRIPTION="block type Signature"/><OtherTag ID="BT3008" LABEL="Salute" DESCRIPTION="block type Salute"/>
+    <OtherTag ID="BT3083" LABEL="NumberingZone:other" DESCRIPTION="block type NumberingZone:other"/><OtherTag ID="BT3082" LABEL="CustomZone#Object" DESCRIPTION="block type CustomZone#Object"/><OtherTag ID="BT3071" LABEL="QuireMarksZone:signature" DESCRIPTION="block type QuireMarksZone:signature"/><OtherTag ID="BT3070" LABEL="NumberingZone:id" DESCRIPTION="block type NumberingZone:id"/><OtherTag ID="BT3069" LABEL="NumberingZone:page" DESCRIPTION="block type NumberingZone:page"/><OtherTag ID="BT3068" LABEL="MarginTextZone:note" DESCRIPTION="block type MarginTextZone:note"/><OtherTag ID="BT3081" LABEL="CustomZone#Dateline" DESCRIPTION="block type CustomZone#Dateline"/><OtherTag ID="BT3080" LABEL="CustomZone#Address" DESCRIPTION="block type CustomZone#Address"/><OtherTag ID="BT3079" LABEL="MainZone#Text" DESCRIPTION="block type MainZone#Text"/><OtherTag ID="BT3078" LABEL="MainZone#SaluteConclude" DESCRIPTION="block type MainZone#SaluteConclude"/><OtherTag ID="BT3077" LABEL="MainZone#SaluteIntro" DESCRIPTION="block type MainZone#SaluteIntro"/><OtherTag ID="BT3076" LABEL="StampZone:graphic" DESCRIPTION="block type StampZone:graphic"/><OtherTag ID="BT3075" LABEL="StampZone:manuscript" DESCRIPTION="block type StampZone:manuscript"/><OtherTag ID="BT3074" LABEL="MarginTextZone:letterhead" DESCRIPTION="block type MarginTextZone:letterhead"/><OtherTag ID="BT3073" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT3072" LABEL="MarginTextZone:commentary" DESCRIPTION="block type MarginTextZone:commentary"/><OtherTag ID="BT3004" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT3002" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/>
     <OtherTag ID="LT1066" LABEL="InterlinearLine:correction" DESCRIPTION="line type InterlinearLine:correction"/><OtherTag ID="LT1065" LABEL="InterlinearLine:commentary" DESCRIPTION="line type InterlinearLine:commentary"/><OtherTag ID="LT1064" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
   </Tags>
   
@@ -30,7 +30,7 @@
                    WIDTH="1176"
                    HEIGHT="167"
                    ID="eSc_textblock_35044037"
-                   TAGREFS="BT3001">
+                   TAGREFS="BT3080">
           <Shape><Polygon POINTS="1191 181 1254 212 1254 257 976 269 190 269 94 250 78 212 126 157 362 102 441 141 714 173"/></Shape>
           
           
@@ -42,7 +42,7 @@
                     WIDTH="1142"
                     HEIGHT="175">
             <Shape><Polygon POINTS="98 236 98 183 147 185 149 185 151 185 194 169 398 96 330 187 332 187 334 187 340 189 429 154 531 187 521 192 549 171 551 171 553 171 555 171 605 158 642 173 644 173 679 198 705 204 819 206 835 202 900 175 902 175 904 175 1067 177 1106 183 1108 183 1110 183 1154 210 1162 214 1236 214 1238 250 1236 259 1136 271 1134 271 1132 271 1130 271 1118 261 961 269 959 269 957 269 919 259 907 257 96 257"/></Shape>
-	    <String CONTENT="Sñr D^n^ Mauricio Barbosa"
+	    <String CONTENT="Sñr D^n Mauricio Barbosa"
                     HPOS="96"
                     VPOS="96"
                     WIDTH="1142"
@@ -57,7 +57,7 @@
                    WIDTH="672"
                    HEIGHT="157"
                    ID="eSc_textblock_53263b04"
-                   TAGREFS="BT3008">
+                   TAGREFS="BT3077">
           <Shape><Polygon POINTS="253 300 459 299 459 340 869 340 869 414 733 456 696 417 197 414"/></Shape>
           
           
@@ -84,7 +84,7 @@
                    WIDTH="1317"
                    HEIGHT="611"
                    ID="eSc_textblock_5f646d31"
-                   TAGREFS="BT3006">
+                   TAGREFS="BT3079">
           <Shape><Polygon POINTS="1138 346 1498 378 1498 949 245 949 181 840 196 427 652 427 652 454 869 454 869 463 891 463 891 340 1098 340 1098 338"/></Shape>
           
           
@@ -113,7 +113,7 @@
                     WIDTH="1269"
                     HEIGHT="86">
             <Shape><Polygon POINTS="210 478 208 437 289 425 289 425 291 425 291 425 291 425 293 425 293 425 295 425 295 425 311 437 321 445 354 445 374 437 401 427 401 427 403 427 403 427 403 427 405 427 405 427 407 427 407 427 407 427 409 427 409 427 423 439 433 447 604 450 620 441 628 433 628 433 630 433 630 433 630 433 632 433 632 433 634 433 634 433 634 433 636 433 659 441 697 454 770 454 801 441 815 437 815 437 817 437 817 437 819 437 819 437 819 437 821 437 821 437 833 443 860 456 990 460 1043 460 1061 445 1063 443 1063 441 1063 441 1065 441 1065 441 1065 441 1067 441 1067 441 1069 441 1209 445 1209 445 1209 445 1211 445 1215 445 1266 460 1396 450 1398 450 1398 450 1398 450 1400 450 1435 460 1473 448 1477 504 1473 511 208 492"/></Shape>
-	    <String CONTENT="he dejado el anteojo al Com^te^ del"
+	    <String CONTENT="he dejado el anteojo al Com^t^e del"
                     HPOS="208"
                     VPOS="425"
                     WIDTH="1269"
@@ -230,7 +230,7 @@
                    WIDTH="1223"
                    HEIGHT="295"
                    ID="eSc_textblock_0438b714"
-                   TAGREFS="BT3008">
+                   TAGREFS="BT3078">
           <Shape><Polygon POINTS="1498 1243 282 1243 275 1000 297 948 1498 963"/></Shape>
           
           
@@ -293,7 +293,7 @@
                     WIDTH="1117"
                     HEIGHT="149">
             <Shape><Polygon POINTS="293 1244 285 1211 326 1189 328 1189 330 1189 332 1189 334 1189 348 1199 443 1189 445 1189 447 1189 474 1203 482 1209 531 1209 547 1201 596 1179 598 1179 600 1179 711 1179 712 1179 746 1193 750 1195 752 1193 770 1177 772 1177 774 1177 776 1177 842 1187 907 1175 909 1175 996 1181 998 1181 1000 1181 1002 1183 1028 1201 1217 1201 1266 1199 1402 1160 1325 1234 1323 1240 1195 1258 1193 1258 1191 1258 1150 1242 1148 1242 1144 1244 1069 1272 1067 1272 1032 1293 785 1252 742 1276 740 1276 690 1309 636 1277 634 1276 632 1276 630 1276 600 1252 565 1252 549 1264 549 1266 547 1266 545 1266 543 1266 541 1266 502 1250 494 1248 293 1252"/></Shape>
-	    <String CONTENT="cribo tu af^mo^ amigo y SS."
+	    <String CONTENT="cribo tu af^m^o amigo y SS."
                     HPOS="285"
                     VPOS="1160"
                     WIDTH="1117"
@@ -308,7 +308,7 @@
                    WIDTH="1228"
                    HEIGHT="283"
                    ID="eSc_textblock_8084d380"
-                   TAGREFS="BT3007">
+                   TAGREFS="BT3068">
           <Shape><Polygon POINTS="1498 1439 1483 1526 1349 1575 1372 1608 270 1608 270 1581 291 1573 285 1350 701 1325 1028 1394 1491 1408"/></Shape>
           
           
@@ -371,7 +371,7 @@
                     WIDTH="1245"
                     HEIGHT="113">
             <Shape><Polygon POINTS="147 1693 143 1640 181 1638 234 1604 236 1604 236 1604 236 1604 238 1604 238 1604 240 1604 283 1604 283 1604 283 1604 285 1604 285 1604 285 1604 287 1604 330 1636 368 1624 370 1624 370 1624 370 1624 372 1624 372 1624 462 1636 470 1636 472 1636 506 1606 506 1604 508 1604 508 1604 508 1604 510 1604 510 1604 512 1604 553 1604 553 1604 553 1604 555 1604 555 1604 557 1604 588 1624 610 1604 610 1604 612 1604 612 1604 612 1604 614 1604 614 1604 616 1604 642 1604 642 1604 642 1604 644 1604 644 1604 705 1632 712 1638 781 1638 791 1632 813 1618 815 1618 815 1618 817 1618 817 1618 817 1618 819 1618 819 1618 821 1618 821 1618 852 1632 866 1636 933 1636 945 1630 1014 1602 1014 1602 1016 1602 1016 1602 1018 1602 1154 1604 1154 1604 1154 1604 1156 1604 1156 1604 1156 1604 1203 1628 1217 1636 1236 1636 1248 1626 1282 1602 1284 1602 1284 1602 1284 1602 1286 1602 1286 1602 1286 1602 1288 1602 1288 1602 1288 1602 1386 1626 1388 1683 1388 1713 1315 1713 1313 1711 1313 1711 1311 1711 1311 1711 1262 1693 1034 1693 900 1713 892 1713 892 1713 890 1713 890 1713 882 1713 787 1699 728 1707 728 1707 726 1707 726 1707 726 1707 724 1707 689 1695 401 1695 323 1713 321 1713 321 1713 321 1715 271 1715 269 1713 269 1713 269 1713 267 1713 267 1713 267 1713 234 1697 212 1713 210 1713 210 1713 210 1713 208 1713 208 1713 208 1713 208 1715 147 1715"/></Shape>
-	    <String CONTENT="A bordo de la &quot;Esmeralda&quot;, Nov^e^ 1º de 1860"
+	    <String CONTENT="A bordo de la &quot;Esmeralda&quot;, Nov^e 1º de 1860"
                     HPOS="143"
                     VPOS="1602"
                     WIDTH="1245"
@@ -386,7 +386,7 @@
                    WIDTH="53"
                    HEIGHT="66"
                    ID="eSc_textblock_f3e4ed70"
-                   TAGREFS="BT3000">
+                   TAGREFS="BT3069">
           <Shape><Polygon POINTS="1386 116 1386 182 1439 180 1439 116"/></Shape>
           
           
@@ -413,7 +413,7 @@
                    WIDTH="708"
                    HEIGHT="153"
                    ID="eSc_textblock_e3c32ad4"
-                   TAGREFS="BT3009">
+                   TAGREFS="BT3071">
           <Shape><Polygon POINTS="1498 1329 1460 1403 1069 1396 884 1368 790 1329 790 1250 1498 1250"/></Shape>
           
           
@@ -440,18 +440,8 @@
                    WIDTH="1263"
                    HEIGHT="80"
                    ID="eSc_textblock_48cedbcb"
-                   TAGREFS="BT3003">
+                   TAGREFS="BT3081">
           <Shape><Polygon POINTS="1380 1619 1404 1654 1388 1699 141 1699 165 1622 169 1620 270 1620 270 1619"/></Shape>
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="126"
-                   VPOS="1866"
-                   WIDTH="29"
-                   HEIGHT="22"
-                   ID="eSc_textblock_73f7fe62"
-                   TAGREFS="BT">
-          <Shape><Polygon POINTS="126 1888 126 1866 147 1866 155 1880"/></Shape>
           
         </TextBlock>
         
