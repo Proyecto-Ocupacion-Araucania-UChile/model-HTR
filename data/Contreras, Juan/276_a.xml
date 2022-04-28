@@ -11,7 +11,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT3100" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT3099" LABEL="StampZone:manuscript" DESCRIPTION="block type StampZone:manuscript"/><OtherTag ID="BT3098" LABEL="StampZone:graphic" DESCRIPTION="block type StampZone:graphic"/><OtherTag ID="BT3097" LABEL="QuireMarksZone:signature" DESCRIPTION="block type QuireMarksZone:signature"/><OtherTag ID="BT3096" LABEL="NumberingZone:page" DESCRIPTION="block type NumberingZone:page"/><OtherTag ID="BT3095" LABEL="NumberingZone:other" DESCRIPTION="block type NumberingZone:other"/><OtherTag ID="BT3094" LABEL="NumberingZone:id" DESCRIPTION="block type NumberingZone:id"/><OtherTag ID="BT3093" LABEL="MarginTextZone:note" DESCRIPTION="block type MarginTextZone:note"/><OtherTag ID="BT3092" LABEL="MarginTextZone:letterhead" DESCRIPTION="block type MarginTextZone:letterhead"/><OtherTag ID="BT3091" LABEL="MarginTextZone:commentary" DESCRIPTION="block type MarginTextZone:commentary"/><OtherTag ID="BT3090" LABEL="MainZone#Text" DESCRIPTION="block type MainZone#Text"/><OtherTag ID="BT3089" LABEL="MainZone#SaluteIntro" DESCRIPTION="block type MainZone#SaluteIntro"/><OtherTag ID="BT3088" LABEL="MainZone#SaluteConclude" DESCRIPTION="block type MainZone#SaluteConclude"/><OtherTag ID="BT3086" LABEL="CustomZone#Object" DESCRIPTION="block type CustomZone#Object"/><OtherTag ID="BT3085" LABEL="CustomZone#Dateline" DESCRIPTION="block type CustomZone#Dateline"/><OtherTag ID="BT3084" LABEL="CustomZone#Address" DESCRIPTION="block type CustomZone#Address"/><OtherTag ID="BT2955" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT2895" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/>
+    <OtherTag ID="BT3100" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT3099" LABEL="StampZone:manuscript" DESCRIPTION="block type StampZone:manuscript"/><OtherTag ID="BT3098" LABEL="StampZone:graphic" DESCRIPTION="block type StampZone:graphic"/><OtherTag ID="BT3097" LABEL="QuireMarksZone:signature" DESCRIPTION="block type QuireMarksZone:signature"/><OtherTag ID="BT3096" LABEL="NumberingZone:page" DESCRIPTION="block type NumberingZone:page"/><OtherTag ID="BT3095" LABEL="NumberingZone:other" DESCRIPTION="block type NumberingZone:other"/><OtherTag ID="BT3094" LABEL="NumberingZone:id" DESCRIPTION="block type NumberingZone:id"/><OtherTag ID="BT3093" LABEL="MarginTextZone:note" DESCRIPTION="block type MarginTextZone:note"/><OtherTag ID="BT3092" LABEL="MarginTextZone:letterhead" DESCRIPTION="block type MarginTextZone:letterhead"/><OtherTag ID="BT3091" LABEL="MarginTextZone:commentary" DESCRIPTION="block type MarginTextZone:commentary"/><OtherTag ID="BT3090" LABEL="MainZone#Text" DESCRIPTION="block type MainZone#Text"/><OtherTag ID="BT3089" LABEL="MainZone#SaluteIntro" DESCRIPTION="block type MainZone#SaluteIntro"/><OtherTag ID="BT3088" LABEL="MainZone#SaluteConclude" DESCRIPTION="block type MainZone#SaluteConclude"/><OtherTag ID="BT3086" LABEL="CustomZone#Object" DESCRIPTION="block type CustomZone#Object"/><OtherTag ID="BT3085" LABEL="CustomZone#Dateline" DESCRIPTION="block type CustomZone#Dateline"/><OtherTag ID="BT3084" LABEL="CustomZone#Address" DESCRIPTION="block type CustomZone#Address"/><OtherTag ID="BT2895" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/>
     <OtherTag ID="LT1050" LABEL="InterlinearLine:commentary" DESCRIPTION="line type InterlinearLine:commentary"/><OtherTag ID="LT1049" LABEL="InterlinearLine:correction" DESCRIPTION="line type InterlinearLine:correction"/><OtherTag ID="LT1032" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
   </Tags>
   
@@ -32,7 +32,10 @@
                    ID="eSc_textblock_6cf9f7f6"
                    TAGREFS="BT3090">
           <Shape><Polygon POINTS="2375 1172 2163 1235 2163 1218 1617 1218 1523 1271 1522 1195 302 1186 302 1209 280 1209 280 1300 173 1285 81 1203 71 940 122 763 93 686 842 686 842 699 952 699 952 674 2345 674 2375 705"/></Shape>
+          
+          
 
+          
           
           <TextLine ID="eSc_line_9e14c9ba"
                     TAGREFS="LT1032"
@@ -171,7 +174,7 @@
                     WIDTH="1069"
                     HEIGHT="144">
             <Shape><Polygon POINTS="856 327 856 281 892 262 946 242 1001 213 997 263 999 263 1002 263 1005 263 1030 281 1115 242 1117 242 1120 242 1225 242 1227 242 1332 281 1381 242 1383 242 1386 242 1388 242 1447 245 1450 245 1452 245 1508 283 1511 286 1613 286 1613 283 1654 247 1654 245 1657 245 1659 245 1662 245 1731 245 1733 245 1736 245 1777 281 1818 255 1820 255 1823 255 1826 255 1828 255 1920 286 1920 332 1915 357 851 347"/></Shape>
-	    <String CONTENT="Señor Don Mauricio Barbosa"
+	    <String CONTENT="⁋Señor Don Mauricio Barbosa"
                     HPOS="851"
                     VPOS="213"
                     WIDTH="1069"
@@ -198,7 +201,7 @@
                     WIDTH="1214"
                     HEIGHT="126">
             <Shape><Polygon POINTS="299 1257 299 1218 393 1194 404 1216 421 1203 424 1203 427 1203 429 1203 432 1203 434 1203 447 1216 450 1218 452 1216 473 1205 475 1205 478 1205 565 1213 608 1218 618 1213 636 1200 639 1200 641 1200 644 1200 647 1200 649 1200 667 1213 695 1200 698 1200 700 1200 703 1200 731 1213 746 1218 777 1213 797 1208 800 1208 803 1208 818 1211 851 1221 866 1211 879 1203 882 1203 884 1203 887 1203 889 1203 910 1211 941 1221 976 1211 999 1203 1002 1203 1005 1203 1007 1203 1030 1208 1074 1221 1260 1211 1263 1211 1265 1211 1309 1223 1503 1205 1508 1264 1498 1295 1470 1280 1196 1280 1176 1292 1173 1292 1171 1292 1168 1292 1166 1292 1130 1280 1081 1303 1079 1303 1076 1303 1074 1303 1071 1303 1069 1303 1043 1282 976 1295 974 1295 971 1295 969 1295 946 1277 887 1277 854 1303 851 1303 849 1303 846 1303 843 1303 795 1290 744 1308 710 1320 708 1320 705 1320 294 1315"/></Shape>
-	    <String CONTENT="Lo que pongo en su conocimiento,"
+	    <String CONTENT="⁋Lo que pongo en su conocimiento,"
                     HPOS="294"
                     VPOS="1194"
                     WIDTH="1214"
@@ -225,7 +228,7 @@
                     WIDTH="844"
                     HEIGHT="148">
             <Shape><Polygon POINTS="1217 505 1209 398 1483 396 1485 396 1488 396 1490 396 1519 413 1704 407 1800 449 1851 431 1879 424 1882 424 1884 424 2048 444 2053 490 2053 513 1905 528 1902 528 1833 516 1808 513 1744 516 1744 518 1726 533 1726 536 1723 536 1721 536 1718 536 1716 536 1659 518 1657 518 1654 518 1575 539 1572 539 1570 539 1437 521 1411 541 1409 541 1406 541 1355 544 1352 544 1350 544 1299 523 1217 523"/></Shape>
-	    <String CONTENT="Tucapel Junio 8 de 1860"
+	    <String CONTENT="⁋Tucapel Junio 8 de 1860"
                     HPOS="1209"
                     VPOS="396"
                     WIDTH="844"
@@ -252,7 +255,7 @@
                     WIDTH="850"
                     HEIGHT="170">
             <Shape><Polygon POINTS="1301 1406 1432 1303 1465 1300 1493 1272 1493 1269 1496 1269 1498 1269 1501 1269 1565 1269 1567 1269 1623 1295 1731 1290 1779 1264 1782 1264 1785 1264 2135 1290 2140 1338 2135 1366 2030 1356 1797 1377 1779 1377 1777 1377 1774 1377 1718 1361 1654 1379 1652 1379 1649 1379 1646 1379 1606 1364 1590 1377 1590 1379 1588 1379 1585 1379 1290 1434"/></Shape>
-	    <String CONTENT="Juan Contreras"
+	    <String CONTENT="⁋Juan Contreras"
                     HPOS="1290"
                     VPOS="1264"
                     WIDTH="850"
@@ -296,7 +299,7 @@
                    ID="eSc_textblock_0c206886"
                    TAGREFS="BT3089">
           <Shape><Polygon POINTS="90 679 81 654 102 592 204 551 611 592 661 657 661 679"/></Shape>
-          
+
           <TextLine ID="eSc_line_d2ab881a"
                     TAGREFS="LT1032"
                     BASELINE="89 666 613 666" 
@@ -305,7 +308,7 @@
                     WIDTH="524"
                     HEIGHT="133">
             <Shape><Polygon POINTS="89 666 92 610 132 620 145 608 150 605 150 602 153 602 156 602 158 602 161 602 163 602 221 562 261 561 202 608 240 600 242 600 245 600 260 608 288 623 450 623 611 602 613 666 613 684 89 694"/></Shape>
-	    <String CONTENT="Señor Coronel:"
+      <String CONTENT="⁋Señor Coronel:"
                     HPOS="89"
                     VPOS="561"
                     WIDTH="524"

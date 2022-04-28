@@ -11,7 +11,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT3083" LABEL="NumberingZone:other" DESCRIPTION="block type NumberingZone:other"/><OtherTag ID="BT3082" LABEL="CustomZone#Object" DESCRIPTION="block type CustomZone#Object"/><OtherTag ID="BT3071" LABEL="QuireMarksZone:signature" DESCRIPTION="block type QuireMarksZone:signature"/><OtherTag ID="BT3070" LABEL="NumberingZone:id" DESCRIPTION="block type NumberingZone:id"/><OtherTag ID="BT3069" LABEL="NumberingZone:page" DESCRIPTION="block type NumberingZone:page"/><OtherTag ID="BT3068" LABEL="MarginTextZone:note" DESCRIPTION="block type MarginTextZone:note"/><OtherTag ID="BT3081" LABEL="CustomZone#Dateline" DESCRIPTION="block type CustomZone#Dateline"/><OtherTag ID="BT3080" LABEL="CustomZone#Address" DESCRIPTION="block type CustomZone#Address"/><OtherTag ID="BT3079" LABEL="MainZone#Text" DESCRIPTION="block type MainZone#Text"/><OtherTag ID="BT3078" LABEL="MainZone#SaluteConclude" DESCRIPTION="block type MainZone#SaluteConclude"/><OtherTag ID="BT3077" LABEL="MainZone#SaluteIntro" DESCRIPTION="block type MainZone#SaluteIntro"/><OtherTag ID="BT3076" LABEL="StampZone:graphic" DESCRIPTION="block type StampZone:graphic"/><OtherTag ID="BT3075" LABEL="StampZone:manuscript" DESCRIPTION="block type StampZone:manuscript"/><OtherTag ID="BT3074" LABEL="MarginTextZone:letterhead" DESCRIPTION="block type MarginTextZone:letterhead"/><OtherTag ID="BT3073" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT3072" LABEL="MarginTextZone:commentary" DESCRIPTION="block type MarginTextZone:commentary"/><OtherTag ID="BT3004" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT3002" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/>
+    <OtherTag ID="BT3083" LABEL="NumberingZone:other" DESCRIPTION="block type NumberingZone:other"/><OtherTag ID="BT3082" LABEL="CustomZone#Object" DESCRIPTION="block type CustomZone#Object"/><OtherTag ID="BT3071" LABEL="QuireMarksZone:signature" DESCRIPTION="block type QuireMarksZone:signature"/><OtherTag ID="BT3070" LABEL="NumberingZone:id" DESCRIPTION="block type NumberingZone:id"/><OtherTag ID="BT3069" LABEL="NumberingZone:page" DESCRIPTION="block type NumberingZone:page"/><OtherTag ID="BT3068" LABEL="MarginTextZone:note" DESCRIPTION="block type MarginTextZone:note"/><OtherTag ID="BT3081" LABEL="CustomZone#Dateline" DESCRIPTION="block type CustomZone#Dateline"/><OtherTag ID="BT3080" LABEL="CustomZone#Address" DESCRIPTION="block type CustomZone#Address"/><OtherTag ID="BT3079" LABEL="MainZone#Text" DESCRIPTION="block type MainZone#Text"/><OtherTag ID="BT3078" LABEL="MainZone#SaluteConclude" DESCRIPTION="block type MainZone#SaluteConclude"/><OtherTag ID="BT3077" LABEL="MainZone#SaluteIntro" DESCRIPTION="block type MainZone#SaluteIntro"/><OtherTag ID="BT3076" LABEL="StampZone:graphic" DESCRIPTION="block type StampZone:graphic"/><OtherTag ID="BT3075" LABEL="StampZone:manuscript" DESCRIPTION="block type StampZone:manuscript"/><OtherTag ID="BT3074" LABEL="MarginTextZone:letterhead" DESCRIPTION="block type MarginTextZone:letterhead"/><OtherTag ID="BT3073" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT3072" LABEL="MarginTextZone:commentary" DESCRIPTION="block type MarginTextZone:commentary"/>
     <OtherTag ID="LT1066" LABEL="InterlinearLine:correction" DESCRIPTION="line type InterlinearLine:correction"/><OtherTag ID="LT1065" LABEL="InterlinearLine:commentary" DESCRIPTION="line type InterlinearLine:commentary"/><OtherTag ID="LT1064" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
   </Tags>
   
@@ -34,22 +34,7 @@
           <Shape><Polygon POINTS="2259 412 2246 3458 2059 3508 912 3495 324 3570 412 2408 412 1712 362 1571 374 499 668 394 668 395 1973 395 1973 389"/></Shape>
           
           
-          <TextLine ID="eSc_line_118b0f7c"
-                    TAGREFS="LT1064"
-                    BASELINE="834 403 1718 393" 
-                    HPOS="824"
-                    VPOS="312"
-                    WIDTH="894"
-                    HEIGHT="103">
-            <Shape><Polygon POINTS="834 403 824 353 906 312 906 312 906 312 909 312 909 312 912 312 912 312 1199 340 1249 315 1249 315 1249 315 1252 315 1252 315 1256 315 1256 315 1256 315 1259 315 1259 315 1259 315 1324 353 1327 353 1337 353 1427 334 1427 334 1427 334 1431 334 1431 334 1434 334 1434 334 1474 353 1712 353 1718 393 1715 415 834 415"/></Shape>
-	    <String CONTENT="Mi amigo querido"
-                    HPOS="824"
-                    VPOS="312"
-                    WIDTH="894"
-                    HEIGHT="103"></String>
-          </TextLine>
-
-          
+                  
           
           <TextLine ID="eSc_line_0ca97852"
                     TAGREFS="LT1064"
@@ -851,7 +836,7 @@
                     WIDTH="1447"
                     HEIGHT="169">
             <Shape><Polygon POINTS="734 268 724 196 812 156 812 156 815 156 815 156 815 156 1018 153 1021 153 1021 153 1024 153 1024 153 1024 153 1027 153 1027 153 1027 156 1065 193 1071 199 1146 199 1162 193 1171 184 1174 184 1174 184 1174 184 1177 184 1177 184 1177 184 1181 184 1181 184 1237 190 1237 190 1237 190 1324 149 1324 149 1324 149 1327 149 1327 149 1331 149 1331 149 1331 149 1334 149 1334 149 1334 149 1337 149 1337 149 1384 190 1399 199 1518 199 1527 187 1574 149 1574 146 1574 146 1577 146 1577 146 1580 146 1580 146 1580 146 1584 146 1702 153 1702 153 1702 153 1705 153 1705 153 1709 153 1709 153 1752 187 1765 193 2162 184 2171 249 2171 271 2009 299 2009 299 2005 299 2005 299 2005 299 2002 299 1943 284 1902 303 1902 303 1902 303 1899 303 1899 303 1899 306 1780 306 1777 303 1777 303 1774 303 1774 303 1774 303 1771 303 1752 290 1740 299 1740 303 1740 303 1737 303 1737 303 1737 303 1734 303 1734 303 1734 303 1449 309 1446 309 1218 284 1215 284 1215 284 1174 312 1171 312 1171 312 1171 312 1168 312 1168 312 1168 315 1096 315 1093 312 1093 312 1090 312 1090 312 1090 312 1087 312 1087 312 1056 287 874 287 859 303 859 306 859 306 856 306 856 306 856 306 852 306 852 306 852 306 849 306 849 306 731 287"/></Shape>
-	    <String CONTENT="Bahia de Arauco, Enero 23 de 1860"
+	    <String CONTENT="⁋Bahia de Arauco, Enero 23 de 1860"
                     HPOS="724"
                     VPOS="146"
                     WIDTH="1447"
@@ -895,6 +880,21 @@
                    ID="eSc_textblock_aa818789"
                    TAGREFS="BT3077">
           <Shape><Polygon POINTS="1787 374 1756 408 839 405 846 330 896 312 846 304 1082 304 1082 325 1529 325 1529 320 1719 320"/></Shape>
+
+          <TextLine ID="eSc_line_118b0f7c"
+                    TAGREFS="LT1064"
+                    BASELINE="834 403 1718 393" 
+                    HPOS="824"
+                    VPOS="312"
+                    WIDTH="894"
+                    HEIGHT="103">
+            <Shape><Polygon POINTS="834 403 824 353 906 312 906 312 906 312 909 312 909 312 912 312 912 312 1199 340 1249 315 1249 315 1249 315 1252 315 1252 315 1256 315 1256 315 1256 315 1259 315 1259 315 1259 315 1324 353 1327 353 1337 353 1427 334 1427 334 1427 334 1431 334 1431 334 1434 334 1434 334 1474 353 1712 353 1718 393 1715 415 834 415"/></Shape>
+      <String CONTENT="⁋Mi amigo querido"
+                    HPOS="824"
+                    VPOS="312"
+                    WIDTH="894"
+                    HEIGHT="103"></String>
+          </TextLine>
           
         </TextBlock>
         

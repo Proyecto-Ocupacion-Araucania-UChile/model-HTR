@@ -11,7 +11,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT3103" LABEL="CustomZone#Object" DESCRIPTION="block type CustomZone#Object"/><OtherTag ID="BT3102" LABEL="CustomZone#Dateline" DESCRIPTION="block type CustomZone#Dateline"/><OtherTag ID="BT3101" LABEL="CustomZone#Address" DESCRIPTION="block type CustomZone#Address"/><OtherTag ID="BT3116" LABEL="StampZone:manuscript" DESCRIPTION="block type StampZone:manuscript"/><OtherTag ID="BT3115" LABEL="StampZone:graphic" DESCRIPTION="block type StampZone:graphic"/><OtherTag ID="BT3114" LABEL="QuireMarksZone:signature" DESCRIPTION="block type QuireMarksZone:signature"/><OtherTag ID="BT3113" LABEL="NumberingZone:page" DESCRIPTION="block type NumberingZone:page"/><OtherTag ID="BT3112" LABEL="NumberingZone:other" DESCRIPTION="block type NumberingZone:other"/><OtherTag ID="BT3111" LABEL="NumberingZone:id" DESCRIPTION="block type NumberingZone:id"/><OtherTag ID="BT3110" LABEL="MarginTextZone:note" DESCRIPTION="block type MarginTextZone:note"/><OtherTag ID="BT3109" LABEL="MarginTextZone:letterhead" DESCRIPTION="block type MarginTextZone:letterhead"/><OtherTag ID="BT3108" LABEL="MarginTextZone:commentary" DESCRIPTION="block type MarginTextZone:commentary"/><OtherTag ID="BT3107" LABEL="MainZone#Text" DESCRIPTION="block type MainZone#Text"/><OtherTag ID="BT3106" LABEL="MainZone#SaluteIntro" DESCRIPTION="block type MainZone#SaluteIntro"/><OtherTag ID="BT3105" LABEL="MainZone#SaluteConclude" DESCRIPTION="block type MainZone#SaluteConclude"/><OtherTag ID="BT2989" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT2987" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/>
+    <OtherTag ID="BT3103" LABEL="CustomZone#Object" DESCRIPTION="block type CustomZone#Object"/><OtherTag ID="BT3102" LABEL="CustomZone#Dateline" DESCRIPTION="block type CustomZone#Dateline"/><OtherTag ID="BT3101" LABEL="CustomZone#Address" DESCRIPTION="block type CustomZone#Address"/><OtherTag ID="BT3116" LABEL="StampZone:manuscript" DESCRIPTION="block type StampZone:manuscript"/><OtherTag ID="BT3115" LABEL="StampZone:graphic" DESCRIPTION="block type StampZone:graphic"/><OtherTag ID="BT3114" LABEL="QuireMarksZone:signature" DESCRIPTION="block type QuireMarksZone:signature"/><OtherTag ID="BT3113" LABEL="NumberingZone:page" DESCRIPTION="block type NumberingZone:page"/><OtherTag ID="BT3112" LABEL="NumberingZone:other" DESCRIPTION="block type NumberingZone:other"/><OtherTag ID="BT3111" LABEL="NumberingZone:id" DESCRIPTION="block type NumberingZone:id"/><OtherTag ID="BT3110" LABEL="MarginTextZone:note" DESCRIPTION="block type MarginTextZone:note"/><OtherTag ID="BT3109" LABEL="MarginTextZone:letterhead" DESCRIPTION="block type MarginTextZone:letterhead"/><OtherTag ID="BT3108" LABEL="MarginTextZone:commentary" DESCRIPTION="block type MarginTextZone:commentary"/><OtherTag ID="BT3107" LABEL="MainZone#Text" DESCRIPTION="block type MainZone#Text"/><OtherTag ID="BT3106" LABEL="MainZone#SaluteIntro" DESCRIPTION="block type MainZone#SaluteIntro"/><OtherTag ID="BT3105" LABEL="MainZone#SaluteConclude" DESCRIPTION="block type MainZone#SaluteConclude"/><OtherTag ID="BT2989" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/>
     <OtherTag ID="LT1063" LABEL="InterlinearLine:correction" DESCRIPTION="line type InterlinearLine:correction"/><OtherTag ID="LT1062" LABEL="InterlinearLine:commentary" DESCRIPTION="line type InterlinearLine:commentary"/><OtherTag ID="LT1061" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
   </Tags>
   
@@ -42,7 +42,7 @@
                     WIDTH="549"
                     HEIGHT="171">
             <Shape><Polygon POINTS="629 296 637 185 754 149 764 208 767 208 770 208 778 217 796 232 884 232 911 199 940 173 940 170 943 170 946 170 949 170 1037 170 1040 170 1043 170 1058 182 1081 199 1164 170 1175 284 1178 299 1128 317 1125 317 1125 320 629 320"/></Shape>
-	    <String CONTENT="Señor coronel"
+	    <String CONTENT="⁋Señor coronel"
                     HPOS="629"
                     VPOS="149"
                     WIDTH="549"
@@ -487,7 +487,7 @@
                     WIDTH="1008"
                     HEIGHT="141">
             <Shape><Polygon POINTS="1155 481 1149 420 1225 417 1225 417 1281 367 1281 367 1284 367 1284 367 1284 367 1287 367 1287 367 1290 367 1340 367 1340 367 1340 367 1343 367 1343 367 1343 367 1346 367 1346 370 1393 408 1396 414 1516 414 1522 405 1563 364 1563 361 1563 361 1566 361 1566 361 1566 361 1569 361 1569 361 1569 361 1572 361 1572 361 1575 361 1575 361 1575 361 1610 378 1693 361 1693 361 1693 361 1696 361 1696 361 1696 361 1698 361 1698 361 1701 361 1701 361 1701 364 1740 396 1748 402 1760 396 1798 367 1801 367 1801 367 1801 367 1804 367 1804 367 1804 367 1807 367 1807 367 1807 367 1810 367 1810 367 1863 390 1887 402 1901 390 1942 358 1942 358 1945 358 1945 358 1945 358 1948 358 1948 358 1951 358 1951 358 1951 358 2066 384 2092 387 2145 381 2154 467 2157 475 2113 493 2113 493 2110 493 2110 493 2107 493 2107 493 1981 481 1978 481 1972 481 1866 496 1866 496 1863 496 1863 496 1863 496 1860 496 1822 484 1810 481 1795 484 1754 499 1751 499 1751 499 1751 499 1748 499 1628 490 1563 484 1155 499"/></Shape>
-	    <String CONTENT="Arauco, Dbre. 15 de 1859."
+	    <String CONTENT="⁋Arauco, Dbre. 15 de 1859."
                     HPOS="1149"
                     VPOS="358"
                     WIDTH="1008"
@@ -514,7 +514,7 @@
                     WIDTH="502"
                     HEIGHT="173">
             <Shape><Polygon POINTS="967 3057 958 2978 1122 2940 1122 2940 1122 2940 1125 2940 1125 2940 1128 2940 1243 2969 1261 2975 1266 2969 1302 2937 1302 2934 1302 2934 1305 2934 1305 2934 1305 2934 1308 2934 1308 2934 1308 2934 1310 2934 1310 2934 1313 2934 1313 2934 1313 2934 1381 2966 1390 2969 1449 2966 1457 3040 1460 3055 1360 3090 1358 3090 1358 3090 1358 3090 1355 3090 1355 3090 1352 3090 1352 3090 1352 3090 1349 3090 1328 3075 1196 3104 1196 3104 1196 3104 1116 3107 1114 3107 1114 3107 1111 3107 1111 3107 1111 3107 1108 3107 1108 3107 1108 3104 1075 3075 1075 3075 967 3078"/></Shape>
-	    <String CONTENT="Su af^m^o"
+	    <String CONTENT="⁋Su af^m^o"
                     HPOS="958"
                     VPOS="2934"
                     WIDTH="502"
@@ -541,7 +541,7 @@
                     WIDTH="632"
                     HEIGHT="185">
             <Shape><Polygon POINTS="1346 3157 1340 3084 1384 3081 1463 3016 1463 3016 1466 3016 1466 3016 1469 3016 1469 3016 1469 3016 1543 3013 1546 3013 1772 3025 1772 3025 1775 3025 1775 3025 1775 3025 1778 3025 1860 3078 1966 3078 1972 3151 1969 3190 1790 3193 1787 3193 1787 3193 1784 3193 1784 3193 1784 3193 1784 3193 1781 3193 1781 3193 1781 3190 1754 3166 1578 3187 1578 3187 1575 3187 1575 3187 1572 3187 1572 3187 1572 3187 1569 3187 1569 3187 1569 3184 1552 3169 1396 3169 1352 3198"/></Shape>
-	    <String CONTENT="J del C. Díaz"
+	    <String CONTENT="⁋J del C. Díaz"
                     HPOS="1340"
                     VPOS="3013"
                     WIDTH="632"

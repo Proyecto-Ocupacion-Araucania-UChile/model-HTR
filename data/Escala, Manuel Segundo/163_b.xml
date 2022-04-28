@@ -11,7 +11,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT3083" LABEL="NumberingZone:other" DESCRIPTION="block type NumberingZone:other"/><OtherTag ID="BT3082" LABEL="CustomZone#Object" DESCRIPTION="block type CustomZone#Object"/><OtherTag ID="BT3071" LABEL="QuireMarksZone:signature" DESCRIPTION="block type QuireMarksZone:signature"/><OtherTag ID="BT3070" LABEL="NumberingZone:id" DESCRIPTION="block type NumberingZone:id"/><OtherTag ID="BT3069" LABEL="NumberingZone:page" DESCRIPTION="block type NumberingZone:page"/><OtherTag ID="BT3068" LABEL="MarginTextZone:note" DESCRIPTION="block type MarginTextZone:note"/><OtherTag ID="BT3081" LABEL="CustomZone#Dateline" DESCRIPTION="block type CustomZone#Dateline"/><OtherTag ID="BT3080" LABEL="CustomZone#Address" DESCRIPTION="block type CustomZone#Address"/><OtherTag ID="BT3079" LABEL="MainZone#Text" DESCRIPTION="block type MainZone#Text"/><OtherTag ID="BT3078" LABEL="MainZone#SaluteConclude" DESCRIPTION="block type MainZone#SaluteConclude"/><OtherTag ID="BT3077" LABEL="MainZone#SaluteIntro" DESCRIPTION="block type MainZone#SaluteIntro"/><OtherTag ID="BT3076" LABEL="StampZone:graphic" DESCRIPTION="block type StampZone:graphic"/><OtherTag ID="BT3075" LABEL="StampZone:manuscript" DESCRIPTION="block type StampZone:manuscript"/><OtherTag ID="BT3074" LABEL="MarginTextZone:letterhead" DESCRIPTION="block type MarginTextZone:letterhead"/><OtherTag ID="BT3073" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT3072" LABEL="MarginTextZone:commentary" DESCRIPTION="block type MarginTextZone:commentary"/><OtherTag ID="BT3004" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT3002" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/>
+    <OtherTag ID="BT3083" LABEL="NumberingZone:other" DESCRIPTION="block type NumberingZone:other"/><OtherTag ID="BT3082" LABEL="CustomZone#Object" DESCRIPTION="block type CustomZone#Object"/><OtherTag ID="BT3071" LABEL="QuireMarksZone:signature" DESCRIPTION="block type QuireMarksZone:signature"/><OtherTag ID="BT3070" LABEL="NumberingZone:id" DESCRIPTION="block type NumberingZone:id"/><OtherTag ID="BT3069" LABEL="NumberingZone:page" DESCRIPTION="block type NumberingZone:page"/><OtherTag ID="BT3068" LABEL="MarginTextZone:note" DESCRIPTION="block type MarginTextZone:note"/><OtherTag ID="BT3081" LABEL="CustomZone#Dateline" DESCRIPTION="block type CustomZone#Dateline"/><OtherTag ID="BT3080" LABEL="CustomZone#Address" DESCRIPTION="block type CustomZone#Address"/><OtherTag ID="BT3079" LABEL="MainZone#Text" DESCRIPTION="block type MainZone#Text"/><OtherTag ID="BT3078" LABEL="MainZone#SaluteConclude" DESCRIPTION="block type MainZone#SaluteConclude"/><OtherTag ID="BT3077" LABEL="MainZone#SaluteIntro" DESCRIPTION="block type MainZone#SaluteIntro"/><OtherTag ID="BT3076" LABEL="StampZone:graphic" DESCRIPTION="block type StampZone:graphic"/><OtherTag ID="BT3075" LABEL="StampZone:manuscript" DESCRIPTION="block type StampZone:manuscript"/><OtherTag ID="BT3074" LABEL="MarginTextZone:letterhead" DESCRIPTION="block type MarginTextZone:letterhead"/><OtherTag ID="BT3073" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT3072" LABEL="MarginTextZone:commentary" DESCRIPTION="block type MarginTextZone:commentary"/>
     <OtherTag ID="LT1066" LABEL="InterlinearLine:correction" DESCRIPTION="line type InterlinearLine:correction"/><OtherTag ID="LT1065" LABEL="InterlinearLine:commentary" DESCRIPTION="line type InterlinearLine:commentary"/><OtherTag ID="LT1064" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
   </Tags>
   
@@ -205,7 +205,7 @@
                     WIDTH="1508"
                     HEIGHT="111">
             <Shape><Polygon POINTS="678 1079 673 1033 734 1004 734 1004 734 1004 736 1004 736 1004 739 1004 816 1004 816 1004 816 1004 818 1004 818 1004 818 1004 821 1004 821 1004 855 1031 872 1021 872 1021 872 1021 874 1021 874 1021 874 1021 876 1021 876 1021 879 1021 879 1021 879 1021 881 1021 881 1021 893 1033 896 1036 992 1036 995 1033 1036 1004 1038 1004 1038 1004 1038 1004 1041 1004 1041 1004 1041 1004 1043 1004 1152 1011 1152 1011 1154 1011 1154 1011 1154 1011 1157 1011 1157 1011 1157 1014 1178 1033 1181 1033 1181 1033 1248 1014 1251 1014 1251 1014 1253 1014 1253 1014 1253 1014 1256 1014 1256 1014 1256 1014 1292 1033 1294 1033 1299 1033 1352 1021 1352 1021 1352 1021 1355 1021 1355 1021 1422 1033 1427 1033 1430 1033 1459 1007 1459 1007 1461 1007 1461 1007 1461 1007 1463 1007 1463 1007 1466 1007 1575 1007 1575 1007 1575 1007 1577 1007 1577 1007 1577 1007 1579 1007 1579 1007 1579 1009 1604 1031 1625 1021 1625 1021 1628 1021 1628 1021 1628 1021 1630 1021 1630 1021 1633 1021 1633 1021 1633 1021 1635 1021 1635 1021 1647 1033 1654 1038 1806 1038 1811 1033 1835 1011 1835 1011 1838 1011 1838 1011 1838 1011 1840 1011 1840 1011 1840 1011 1884 1009 1886 1009 1886 1009 1886 1009 1889 1009 1889 1009 1889 1009 1891 1009 1910 1023 1988 1009 1988 1009 1988 1009 1990 1009 1990 1009 1992 1009 1992 1009 1992 1009 2036 1033 2178 1033 2181 1084 2178 1101 2087 1115 2087 1115 2084 1115 1920 1103 1874 1115 1872 1115 1872 1115 1869 1115 1869 1115 1869 1115 1867 1115 1867 1115 1867 1115 1864 1115 1845 1103 1719 1103 1693 1115 1693 1115 1693 1115 1690 1115 1690 1115 1690 1115 1688 1115 1488 1103 1454 1115 1454 1115 1451 1115 1451 1115 1449 1115 1314 1113 1314 1113 1314 1113 1311 1113 1311 1113 1311 1113 1309 1113 1309 1113 1309 1110 1297 1101 744 1113 741 1113 741 1113 739 1113 673 1096"/></Shape>
-	    <String CONTENT="Soi siempre de U. su afectisimo servidor"
+	    <String CONTENT="⁋Soi siempre de U. su afectisimo servidor"
                     HPOS="673"
                     VPOS="1004"
                     WIDTH="1508"
@@ -266,16 +266,6 @@
                     HEIGHT="94"></String>
           </TextLine>
 
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="964"
-                   VPOS="1082"
-                   WIDTH="1326"
-                   HEIGHT="429"
-                   ID="eSc_textblock_a51dfd83"
-                   TAGREFS="BT3002">
-          <Shape><Polygon POINTS="964 1511 964 1082 2290 1082 2290 1511"/></Shape>
           
         </TextBlock>
         

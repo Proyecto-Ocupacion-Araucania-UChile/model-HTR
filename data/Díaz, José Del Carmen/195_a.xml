@@ -11,7 +11,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT3103" LABEL="CustomZone#Object" DESCRIPTION="block type CustomZone#Object"/><OtherTag ID="BT3102" LABEL="CustomZone#Dateline" DESCRIPTION="block type CustomZone#Dateline"/><OtherTag ID="BT3101" LABEL="CustomZone#Address" DESCRIPTION="block type CustomZone#Address"/><OtherTag ID="BT3116" LABEL="StampZone:manuscript" DESCRIPTION="block type StampZone:manuscript"/><OtherTag ID="BT3115" LABEL="StampZone:graphic" DESCRIPTION="block type StampZone:graphic"/><OtherTag ID="BT3114" LABEL="QuireMarksZone:signature" DESCRIPTION="block type QuireMarksZone:signature"/><OtherTag ID="BT3113" LABEL="NumberingZone:page" DESCRIPTION="block type NumberingZone:page"/><OtherTag ID="BT3112" LABEL="NumberingZone:other" DESCRIPTION="block type NumberingZone:other"/><OtherTag ID="BT3111" LABEL="NumberingZone:id" DESCRIPTION="block type NumberingZone:id"/><OtherTag ID="BT3110" LABEL="MarginTextZone:note" DESCRIPTION="block type MarginTextZone:note"/><OtherTag ID="BT3109" LABEL="MarginTextZone:letterhead" DESCRIPTION="block type MarginTextZone:letterhead"/><OtherTag ID="BT3108" LABEL="MarginTextZone:commentary" DESCRIPTION="block type MarginTextZone:commentary"/><OtherTag ID="BT3107" LABEL="MainZone#Text" DESCRIPTION="block type MainZone#Text"/><OtherTag ID="BT3106" LABEL="MainZone#SaluteIntro" DESCRIPTION="block type MainZone#SaluteIntro"/><OtherTag ID="BT3105" LABEL="MainZone#SaluteConclude" DESCRIPTION="block type MainZone#SaluteConclude"/><OtherTag ID="BT2989" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT2987" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/>
+    <OtherTag ID="BT3103" LABEL="CustomZone#Object" DESCRIPTION="block type CustomZone#Object"/><OtherTag ID="BT3102" LABEL="CustomZone#Dateline" DESCRIPTION="block type CustomZone#Dateline"/><OtherTag ID="BT3101" LABEL="CustomZone#Address" DESCRIPTION="block type CustomZone#Address"/><OtherTag ID="BT3116" LABEL="StampZone:manuscript" DESCRIPTION="block type StampZone:manuscript"/><OtherTag ID="BT3115" LABEL="StampZone:graphic" DESCRIPTION="block type StampZone:graphic"/><OtherTag ID="BT3114" LABEL="QuireMarksZone:signature" DESCRIPTION="block type QuireMarksZone:signature"/><OtherTag ID="BT3113" LABEL="NumberingZone:page" DESCRIPTION="block type NumberingZone:page"/><OtherTag ID="BT3112" LABEL="NumberingZone:other" DESCRIPTION="block type NumberingZone:other"/><OtherTag ID="BT3111" LABEL="NumberingZone:id" DESCRIPTION="block type NumberingZone:id"/><OtherTag ID="BT3110" LABEL="MarginTextZone:note" DESCRIPTION="block type MarginTextZone:note"/><OtherTag ID="BT3109" LABEL="MarginTextZone:letterhead" DESCRIPTION="block type MarginTextZone:letterhead"/><OtherTag ID="BT3108" LABEL="MarginTextZone:commentary" DESCRIPTION="block type MarginTextZone:commentary"/><OtherTag ID="BT3107" LABEL="MainZone#Text" DESCRIPTION="block type MainZone#Text"/><OtherTag ID="BT3106" LABEL="MainZone#SaluteIntro" DESCRIPTION="block type MainZone#SaluteIntro"/><OtherTag ID="BT3105" LABEL="MainZone#SaluteConclude" DESCRIPTION="block type MainZone#SaluteConclude"/><OtherTag ID="BT2989" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/>
     <OtherTag ID="LT1063" LABEL="InterlinearLine:correction" DESCRIPTION="line type InterlinearLine:correction"/><OtherTag ID="LT1062" LABEL="InterlinearLine:commentary" DESCRIPTION="line type InterlinearLine:commentary"/><OtherTag ID="LT1061" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
   </Tags>
   
@@ -42,7 +42,7 @@
                     WIDTH="609"
                     HEIGHT="207">
             <Shape><Polygon POINTS="399 311 399 188 504 188 516 179 549 146 549 143 549 143 552 143 552 143 552 143 555 143 555 143 555 143 558 143 558 143 558 143 561 143 630 167 654 146 654 143 654 143 657 143 657 143 657 143 660 143 660 143 663 143 999 146 1002 317 999 332 702 350 699 350 699 350 699 350 696 350 696 350 696 350 693 350 672 332 666 332 645 332 513 347 510 347 510 347 393 332"/></Shape>
-	    <String CONTENT="Señor Coronel"
+	    <String CONTENT="⁋Señor Coronel"
                     HPOS="393"
                     VPOS="143"
                     WIDTH="609"
@@ -69,7 +69,7 @@
                     WIDTH="855"
                     HEIGHT="195">
             <Shape><Polygon POINTS="264 692 255 620 330 569 333 569 333 569 333 569 336 569 336 569 339 569 489 572 489 572 489 572 492 572 492 572 492 572 495 572 564 617 576 623 609 623 615 617 654 581 654 581 657 581 657 581 657 581 660 581 660 581 660 581 663 581 663 581 666 581 666 581 666 581 669 581 669 581 711 614 726 629 915 629 939 611 981 581 981 581 984 581 984 581 987 581 987 581 987 581 990 581 990 581 993 581 993 581 993 581 1053 611 1071 620 1104 611 1110 704 1104 728 978 728 978 728 906 764 906 764 906 764 903 764 903 764 900 764 813 761 813 761 813 761 810 761 810 761 807 761 744 722 744 722 735 722 381 755 378 755 378 755 378 755 375 755 375 755 375 755 372 755 324 719 258 710"/></Shape>
-	    <String CONTENT="Señor demi respeto."
+	    <String CONTENT="⁋Señor demi respeto."
                     HPOS="255"
                     VPOS="569"
                     WIDTH="855"
@@ -480,7 +480,7 @@
           
           
           <TextLine ID="eSc_line_96b31aa6"
-                    
+                    TAGREFS="LT1061"
                     BASELINE="78 3008 2352 3026" 
                     HPOS="75"
                     VPOS="2918"
@@ -565,23 +565,13 @@
                     WIDTH="1056"
                     HEIGHT="165">
             <Shape><Polygon POINTS="1140 509 1140 434 1248 434 1254 425 1314 374 1314 371 1314 371 1317 371 1317 371 1317 371 1320 371 1320 371 1323 371 1323 371 1323 371 1326 371 1326 371 1326 371 1329 371 1329 371 1329 374 1377 419 1389 434 1554 434 1578 410 1587 401 1587 398 1587 398 1590 398 1590 398 1590 398 1593 398 1593 398 1593 398 1596 398 1596 398 1599 398 1599 398 1623 407 1632 410 1635 407 1668 374 1668 371 1668 371 1671 371 1671 371 1671 371 1674 371 1674 371 1677 371 1677 371 1677 371 1680 371 1680 371 1680 371 1683 371 1683 371 1716 401 1740 422 1776 398 1815 371 1818 371 1818 371 1818 371 1821 371 1821 371 1824 371 2193 377 2193 509 2190 536 1137 530"/></Shape>
-	    <String CONTENT="Arauco, Dbre 16 de 1859."
+	    <String CONTENT="⁋Arauco, Dbre 16 de 1859."
                     HPOS="1137"
                     VPOS="371"
                     WIDTH="1056"
                     HEIGHT="165"></String>
           </TextLine>
 
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="89"
-                   VPOS="1772"
-                   WIDTH="83"
-                   HEIGHT="116"
-                   ID="eSc_textblock_6961ec4f"
-                   TAGREFS="BT2987">
-          <Shape><Polygon POINTS="107 1779 89 1861 172 1888 172 1772"/></Shape>
           
         </TextBlock>
         
@@ -593,15 +583,9 @@
                    TAGREFS="BT3113">
           <Shape><Polygon POINTS="2181 115 2181 205 2247 205 2247 115"/></Shape>
           
-        </TextBlock>
-        
-
-        
-        <TextBlock ID="eSc_dummyblock_">
-          
           
           <TextLine ID="eSc_line_0fa1f8fa"
-                    
+                    TAGREFS="LT1061"
                     BASELINE="2196 181 2228 181" 
                     HPOS="2190"
                     VPOS="89"
@@ -617,6 +601,8 @@
 
           
         </TextBlock>
+        
+
         
       </PrintSpace>
     </Page>
