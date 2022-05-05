@@ -36,7 +36,6 @@ def clean_model_regex():
                     correction = re.search(correction_pattern, lines)
                     correction_read = re.search(correction_read_pattern, lines)
                     borred = re.search(borred_pattern, lines)
-                    superscript = re.search(superscript_pattern, lines)
                     if unread is not None:
                         write_file.write(re.sub(unreadable_pattern, "xxx", lines))
                     elif correction is not None:
@@ -45,10 +44,10 @@ def clean_model_regex():
                         write_file.write(re.sub(correction_read_pattern, "\\1", lines))
                     elif borred is not None:
                         write_file.write(re.sub(borred_pattern, "xxx", lines))
-                    elif superscript is not None:
-                        for key in superscript.group():
-                            if key != "^":
-                                re.sub(superscript_pattern, superscript_map[key], lines)
+                    for superscript in re.finditer(superscript_pattern, lines):
+                        for letter in superscript.group():
+                            if letter != "^" or letter != " ":
+                                print(re.sub(superscript_pattern, superscript_map[letter], lines))
                     else:
                         write_file.write(lines)
                     write_file.write("\n")
