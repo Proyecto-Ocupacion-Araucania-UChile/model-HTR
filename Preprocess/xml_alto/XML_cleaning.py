@@ -1,4 +1,4 @@
-import re, os, click
+import re, os, click, encodings
 from constants import *
 
 #Dict superscript
@@ -19,56 +19,59 @@ current_dir = os.path.dirname(os.path.abspath(__file__))
 
 #List regex pattern
 superscript_pattern = re.compile(r"\^([A-Za-zÀ-ÖØ-öø-ÿ -])")
-correction_read_pattern = re.compile(r"\[\[[A-Za-zÀ-ÖØ-öø-ÿ -]+\|[A-Za-zÀ-ÖØ-öø-ÿ -]+]]")
-correction_pattern = re.compile(r"\[\[([A-Za-zÀ-ÖØ-öø-ÿ -])*]]")
+correction_read_pattern = re.compile(r"\[\[[A-Za-zÀ-ÖØ-öø-ÿ -]+\|([A-Za-zÀ-ÖØ-öø-ÿ -]+)]]")
+correction_pattern = re.compile(r"\[\[([A-Za-zÀ-ÖØ-öø-ÿ -]*)]]")
 unreadable_pattern = re.compile(r"-\[([A-z -]*)]-")
 borred_pattern = re.compile(r"\*\[([A-Za-zÀ-ÖØ-öø-ÿ -]+])\*")
 
 @click.command()
-def clean_model():
-    clean = os.path.join(current_dir, ALTO_CLEAN)
-    for file in os.listdir(os.path.join(current_dir, ALTO_BRUT)):
-        with open(os.path.join(current_dir, ALTO_BRUT, file), 'r') as f:
-            xml = f.read()
-            for lines in xml.split('\n'):
-                print(re.sub(unreadable_pattern, "\\1", lines))
-
-
-if __name__ == '__main__':
-    clean_model()
-
-
-#comte regex find by ligne
-
-#-[mu]-jeres de los Soldados
-# print(re.sub(unreadable_pattern, "\\1", lines))     fonctionne
-"""@click.command()
-def clean_model():
+def clean_model_regex():
     clean = os.path.join(current_dir, ALTO_CLEAN)
     for file in os.listdir(os.path.join(current_dir, ALTO_BRUT)):
         with open(os.path.join(current_dir, ALTO_BRUT, file), 'r') as f:
             xml = f.read()
             with open(f"{clean}/{file}", 'w') as write_file:
-                for lines in xml.split('\n'):
-                    for match_super in re.search(superscript_pattern, lines):
-                        match_cleaning = match_super.replace('^', '')
-                        for letters in match_cleaning.split():
-                            write_file.write(match_cleaning.replace(letters, superscript_map[letters]))
+                for n, lines in enumerate(xml.split('\n')):
                     unread = re.search(unreadable_pattern, lines)
-                    if unread is not None:
-                        write_file.write(re.sub(unread, ''))
                     correction = re.search(correction_pattern, lines)
-                    if correction is not None:
-                        write_file.write(re.sub(correction, "\\1"))
                     correction_read = re.search(correction_read_pattern, lines)
-                    if correction_read is not None:
-                        write_file.write(re.sub(correction_read, "\\1"))
                     borred = re.search(borred_pattern, lines)
-                    if borred is not None:
-                        write_file.write(re.sub(borred, ""))
+                    superscript = re.search(superscript_pattern, lines)
+                    if unread is not None:
+                        write_file.write(re.sub(unreadable_pattern, "xxx", lines))
+                    elif correction is not None:
+                        write_file.write(re.sub(correction_pattern, "\\1", lines))
+                    elif correction_read is not None:
+                        write_file.write(re.sub(correction_read_pattern, "\\1", lines))
+                    elif borred is not None:
+                        write_file.write(re.sub(borred_pattern, "xxx", lines))
+                    elif superscript is not None:
+                        for key in superscript.group():
+                            if key != "^":
+                                re.sub(superscript_pattern, superscript_map[key], lines)
+                    else:
+                        write_file.write(lines)
+                    write_file.write("\n")
+
+
+def journal_error(path, file, n, type):
+    """
+    Transcribe a journal error with informations
+
+    :param path: Str, better tu use os library
+    :param file: Str, filename
+    :param n: Int, line number of error
+    :param type: Str, text to describe the error
+    :return: None
+    """
+    if os.path.isfile(f"{path}/errors.txt"):
+        with open(f"{path}/error.txt", "a") as f:
+            f.write(f"error: {file}, l.{n} -> {type}")
+    else:
+        with open(f"{path}/error.txt", "a") as f:
+            f.write(f"error: {file}, l.{n} -> {type}")
+
+
 
 if __name__ == '__main__':
-    clean_model()"""
-
-
-#use .group for regex si il y a plusieurs resultats dans une meme ligne
+    clean_model_regex()
