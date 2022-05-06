@@ -42,7 +42,7 @@
                     WIDTH="352"
                     HEIGHT="289">
             <Shape><Polygon POINTS="192 579 280 403 437 373 453 397 541 476 544 595 489 662 471 496 400 445 308 487 279 609"/></Shape>
-	    <String CONTENT="-[]-DENCIA DE ARAUCO"
+	    <String CONTENT="xxxDENCIA DE ARAUCO"
                     HPOS="192"
                     VPOS="373"
                     WIDTH="352"
@@ -595,7 +595,7 @@
                     WIDTH="716"
                     HEIGHT="152">
             <Shape><Polygon POINTS="119 3272 119 3174 275 3174 284 3171 347 3138 347 3138 347 3138 350 3138 350 3138 353 3138 559 3141 559 3141 559 3141 562 3141 562 3141 619 3165 631 3171 652 3165 694 3156 697 3156 697 3156 700 3156 700 3156 700 3156 703 3156 703 3156 703 3156 721 3165 751 3180 826 3165 829 3281 823 3290 113 3281"/></Shape>
-	    <String CONTENT="⁋Al Comand^t^e de"
+	    <String CONTENT="⁋Al Comandᵗᵉ de"
                     HPOS="113"
                     VPOS="3138"
                     WIDTH="716"
@@ -682,3 +682,4 @@
     </Page>
   </Layout>
 </alto>
+
