@@ -1,5 +1,5 @@
 *.jpg
 *__pycache__*
-*env
+.env*
 .idea/
 *.arrow

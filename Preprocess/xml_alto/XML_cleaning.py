@@ -1,19 +1,6 @@
 import re, os, click, encodings
 from constants import *
 
-#Dict superscript
-superscript_map = {
-    "0": "⁰", "1": "¹", "2": "²", "3": "³", "4": "⁴", "5": "⁵", "6": "⁶",
-    "7": "⁷", "8": "⁸", "9": "⁹", "a": "ᵃ", "b": "ᵇ", "c": "ᶜ", "d": "ᵈ",
-    "e": "ᵉ", "f": "ᶠ", "g": "ᵍ", "h": "ʰ", "i": "ᶦ", "j": "ʲ", "k": "ᵏ",
-    "l": "ˡ", "m": "ᵐ", "n": "ⁿ", "o": "ᵒ", "p": "ᵖ", "q": "۹", "r": "ʳ",
-    "s": "ˢ", "t": "ᵗ", "u": "ᵘ", "v": "ᵛ", "w": "ʷ", "x": "ˣ", "y": "ʸ",
-    "z": "ᶻ", "A": "ᴬ", "B": "ᴮ", "C": "ᶜ", "D": "ᴰ", "E": "ᴱ", "F": "ᶠ",
-    "G": "ᴳ", "H": "ᴴ", "I": "ᴵ", "J": "ᴶ", "K": "ᴷ", "L": "ᴸ", "M": "ᴹ",
-    "N": "ᴺ", "O": "ᴼ", "P": "ᴾ", "Q": "Q", "R": "ᴿ", "S": "ˢ", "T": "ᵀ",
-    "U": "ᵁ", "V": "ⱽ", "W": "ᵂ", "X": "ˣ", "Y": "ʸ", "Z": "ᶻ", "+": "⁺",
-    "-": "⁻", "=": "⁼", "(": "⁽", ")": "⁾"}
-
 #Current path
 current_dir = os.path.dirname(os.path.abspath(__file__))
 
@@ -28,6 +15,11 @@ borred_pattern = re.compile(r"\*\[([A-Za-zÀ-ÖØ-öø-ÿ -]+])\*")
 
 
 def to_superscript(num):
+"""
+Function to convert character in superscript
+:num: str, data to transform
+:return:str, transform
+"""
     transl = str.maketrans(dict(zip('abcdefghijklmnopqrstuvwxyz1234567890', 'ᵃᵇᶜᵈᵉᶠᵍʰᶦʲᵏˡᵐⁿᵒᵖᵠʳˢᵗᵘᵛʷˣʸᶻ¹²³⁴⁵⁶⁷⁸⁹⁰')))
     return num.translate(transl)
 
@@ -52,6 +44,10 @@ def journal_error(path, file, n, type):
 
 @click.command()
 def clean_model_regex():
+"""
+Function to clean xml files in folder ALTO BRUT with regex to write a cleaned outpout xml
+return: xml files cleaned
+"""
     clean = os.path.join(current_dir, ALTO_CLEAN)
     for file in os.listdir(os.path.join(current_dir, ALTO_BRUT)):
         with open(os.path.join(current_dir, ALTO_BRUT, file), 'r') as f:
