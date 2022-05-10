@@ -9,13 +9,6 @@ import pandas as pd
 
 from kami.Kami import Kami
 
-# deux phrases d'exemples
-ground_truth = " 1 : J'aime Python comme langage de programmation !!"
-hypothesis = "2: J'adore python comme Langage    de dévelloppement web ?   "
-
-# Appel de la classe
-k = Kami([ground_truth, hypothesis], verbosity=False, truncate=True, percent=True, round_digits='0.01')
-
 # Affichage des phrases d'exemples
 current_folder = current_dir = os.path.dirname(os.path.abspath(__file__))
 folder_data ="data_test/ground_truth/"
