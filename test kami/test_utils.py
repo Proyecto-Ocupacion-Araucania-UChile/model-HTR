@@ -1,9 +1,9 @@
-import csv
 from datetime import datetime
-import io
-import pprint
+import shutil
 import os
 import click
+import glob
+import csv
 
 import pandas as pd
 
@@ -31,13 +31,41 @@ author = {
     "215_1_b.xml": "Escala"
 }
 @click.command()
-def test_htr(model_name: str, transforms="XP", verbosity=False, truncate=True, percent=True, round_digits='0.01'):
+@click.argument("model_name", type=str)
+@click.option("-t", "--transforms", default="XP",
+              help="""Allows you to apply transforms to the text. 
+                        D : Deletes all digits and numbers;
+                        U : Shift the text;
+                        L : Minusculise the text;
+                        P : Delete punctuation;
+                        X : Deletes diacritical marks;""")
+@click.option("-v", "--verbosity",  is_flag=True, default=False,
+              help="Allows you to retrieve execution logs to follow the process. False by default")
+@click.option("-tr", "--truncate",  is_flag=True, default=True,
+              help="Option to use to truncate the final result. True by default")
+@click.option("-p", "--percent",  is_flag=True, default=True,
+              help="Option to display a result in percent. True by default")
+@click.option("-r", "--round", "round_digits", default='0.01',
+              help="Option to set the digits after the decimal point. 0.01 by default")
+def test_htr(model_name, transforms, verbosity, truncate, percent, round_digits):
+    """
+    Function to product test model HTR on 6 hands to see differences between them.
+
+    :param model_name: str, name of model in folder model
+    :param transforms: str, option argument to configure transformation of text
+    :param verbosity: Boolean option argument to retrieve execution logs
+    :param truncate: Boolean, option argument to truncate the final result
+    :param percent: Boolean, option to display a result in percent
+    :param round_digits: str, option to set the digits after the decimal point
+    :return: csv
+    """
     for file in os.listdir(os.path.join(current_folder, folder_data)):
         if file != "img":
             name_img = os.path.basename(file).replace(".xml", ".jpg")
-            ground_truth = file
+            ground_truth = os.path.join(current_folder, folder_data, file)
             image = os.path.join(current_folder, folder_data, f"img/{name_img}")
             model = os.path.join(current_folder, model_folder, model_name)
+            path = os.path.join(current_folder, model_folder)
 
             kevaluator = Kami(ground_truth,
                               model=model,
@@ -48,6 +76,7 @@ def test_htr(model_name: str, transforms="XP", verbosity=False, truncate=True, p
                               percent=percent,
                               round_digits=round_digits)
 
+            #metada
             metadatas = {}
             metrics = {}
 
@@ -57,6 +86,7 @@ def test_htr(model_name: str, transforms="XP", verbosity=False, truncate=True, p
             metadatas['GROUND_TRUTH'] = ground_truth
             metadatas['MODEL'] = model
 
+            #scoring
             for key, value in kevaluator.scores.board.items():
                 if type(value) != dict and key not in ['levensthein_distance_char',
                                                        'levensthein_distance_words',
@@ -74,14 +104,15 @@ def test_htr(model_name: str, transforms="XP", verbosity=False, truncate=True, p
                     metadatas[key] = value
                 else:
                     metrics[key] = value
+            # write csv zith data
             try:
                 df_metrics = pd.DataFrame.from_dict(metrics)
             except:
                 df_metrics = pd.DataFrame.from_dict(metrics, orient='index')
 
-            name_csv = f"evaluation_report_kami_{metadatas['DATETIME']}_{metadatas['MODEL']}_{author[file]}.csv"
+            name_csv = f"evaluation_report_kami_{metadatas['DATETIME']}_{model_name}_{author[file]}.csv"
 
-            with open(name_csv, 'w') as csv_file:
+            with open(os.path.join(path, name_csv), 'w') as csv_file:
                 writer = csv.writer(csv_file,
                                     delimiter=',',
                                     quotechar='|',
@@ -92,7 +123,27 @@ def test_htr(model_name: str, transforms="XP", verbosity=False, truncate=True, p
                     row.append(value)
                     writer.writerow(row)
 
-            df_metrics.to_csv(name_csv, mode='a', header=True)
+            df_metrics.to_csv(os.path.join(path, name_csv), mode='a', header=True)
+    
+    move_model(model_name)
+    print("work as well !")
+
+
+def move_model(name):
+    """
+    Function to create folder with model and results of its tests
+    :param name: str, name of model
+    :return: None
+    """
+    try:
+        name_folder = name.replace(".mlmodel", "")
+        os.mkdir(os.path.join(current_folder, model_folder, name_folder))
+        path = os.path.join(current_folder, model_folder, name_folder)
+        shutil.move(os.path.join(current_folder, model_folder, name), path)
+        for items in glob.glob(f"{model_folder}/*.csv"):
+            shutil.move(items, path)
+    except FileExistsError:
+        return print(f"Files exists about {name_folder}")
 
 
 if __name__ == '__main__':
