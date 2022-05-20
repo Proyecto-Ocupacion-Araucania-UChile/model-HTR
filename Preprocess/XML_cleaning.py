@@ -64,6 +64,7 @@ def clean_model_regex(txt):
                 with open(f"{clean}/{file}", 'w') as write_file:
                     try:
                         for n, lines in enumerate(text):
+                            lines = lines.replace("⁋", "")
                             unread = re.search(unreadable_pattern, lines)
                             correction = re.search(correction_pattern, lines)
                             correction_read = re.search(correction_read_pattern, lines)
