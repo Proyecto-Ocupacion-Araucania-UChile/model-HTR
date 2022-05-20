@@ -103,7 +103,7 @@
                     WIDTH="236"
                     HEIGHT="130">
             <Shape><Polygon POINTS="50 1101 53 1008 140 1045 236 1045 278 1021 283 1109 283 1122 238 1138 236 1138 233 1138 164 1127 116 1119 47 1130"/></Shape>
-	    <String CONTENT="[tes]tad[[o]]"
+	    <String CONTENT="[tes]tado"
                     HPOS="47"
                     VPOS="1008"
                     WIDTH="236"
@@ -427,4 +427,5 @@
     </Page>
   </Layout>
 </alto>
+
 

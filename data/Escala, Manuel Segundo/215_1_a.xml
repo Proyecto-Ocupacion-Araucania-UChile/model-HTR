@@ -622,7 +622,7 @@
                     WIDTH="1784"
                     HEIGHT="81">
             <Shape><Polygon POINTS="434 2758 434 2708 2209 2708 2212 2764 2205 2789 428 2783"/></Shape>
-	    <String CONTENT="en ca[[g|s]]o de haberse realizado en el Perú el"
+	    <String CONTENT="en caso de haberse realizado en el Perú el"
                     HPOS="428"
                     VPOS="2708"
                     WIDTH="1784"
@@ -904,4 +904,5 @@
     </Page>
   </Layout>
 </alto>
+
 
