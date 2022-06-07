@@ -26,5 +26,9 @@ en la carta de que me ocupo.
 Que todo sea felicidad es el deseo
 de tu amigo que desea abrazarte,
 Adición. Por el Cloda solo hubo correspon-
+<<<<<<< HEAD
 dencia p^a un of^l, la que incluyo.
+=======
+dencia pᵃ un ofˡ, la que incluyo.
+>>>>>>> 22f3f43fead24af7c028e01c1d08110b803fcdd4
 Manuel 2nd Escala

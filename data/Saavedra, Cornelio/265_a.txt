@@ -17,7 +17,11 @@ Ha sido nombrado Ministro del Interior D. Antonio
 Varas y con su nombramiento ha querido probar que no será
 el candidato para la Presidencia, verémos lo que di-
 visemos para mas tarde.
+<<<<<<< HEAD
 Valp^o Abril 201860
+=======
+Valpᵒ Abril 201860
+>>>>>>> 22f3f43fead24af7c028e01c1d08110b803fcdd4
 1
 Cornelio Saavedra
 S. D Mauricio Barboza

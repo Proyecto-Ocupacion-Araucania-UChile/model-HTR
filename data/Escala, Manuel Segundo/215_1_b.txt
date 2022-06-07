@@ -6,12 +6,21 @@ que esto tendrá lugar despues que hayas des-
 trozado a los pícaros indios. Ojalá te manden
 300 infantes y 100 carabineros para los destaca-
 mentos.
+<<<<<<< HEAD
 D^n Ángel Custodio Gallo debe haber lle-
 gado al Perú, esto debemos saberlo muy luego
 por que el Vapor debe llegar hoy á Valparaiso con
 la noticia; de consiguiente al General D^n Cus-
 todio será aquién tendremos que combatir,
 y no á D^n Pedro Leon.
+=======
+Dⁿ Ángel Custodio Gallo debe haber lle-
+gado al Perú, esto debemos saberlo muy luego
+por que el Vapor debe llegar hoy á Valparaiso con
+la noticia; de consiguiente al General Dⁿ Cus-
+todio será aquién tendremos que combatir,
+y no á Dⁿ Pedro Leon.
+>>>>>>> 22f3f43fead24af7c028e01c1d08110b803fcdd4
 Mercurios no he recibido, deben estar
 en Santa Juana los que me trajo el “Cloda”
 por que tu debes saber que el correo no lle-
@@ -27,9 +36,15 @@ nuestros conciudadanos tengan noticia de
 tus hechos y no salgan los estrilones del
 Mercurio con el desentono de que nada
 se dice de tu división sin embargo de
+<<<<<<< HEAD
 llegar vapores del sud. A D^n Cornelio
 le digo que el parte tuyo habrá mar-
 chado por conducto del Int^te de Concep-
+=======
+llegar vapores del sud. A Dⁿ Cornelio
+le digo que el parte tuyo habrá mar-
+chado por conducto del Intᵗᵉ de Concep-
+>>>>>>> 22f3f43fead24af7c028e01c1d08110b803fcdd4
 cion, pero que por no tener dato seguro
 lo hago así. Posteriormente he sabido
 que el propio que mandaste con los par-
@@ -40,7 +55,11 @@ de los dejados por enfermos, comple-
 tamente buenos, a más uno manda-
 do hoy como desertor, y creyendo
 que esta gente puede serte útil, he
+<<<<<<< HEAD
 oficiado al Gob^o, dándole cuenta de
+=======
+oficiado al Gobᵒ, dándole cuenta de
+>>>>>>> 22f3f43fead24af7c028e01c1d08110b803fcdd4
 estar esa tropa en estado de mar-
 char, pero este ángel de Dios se de-
 sentiende de mi nota y me dice

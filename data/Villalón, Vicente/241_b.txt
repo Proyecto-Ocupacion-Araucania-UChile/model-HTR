@@ -14,7 +14,11 @@ este fin había indicado a Ud si le
 era posible avanzar con su division
 por Purén; pero ya Ud está empeñado
 en trabajos que tienden a la pacificacion
+<<<<<<< HEAD
 completa de un depart^o, he renunciado
+=======
+completa de un departᵒ, he renunciado
+>>>>>>> 22f3f43fead24af7c028e01c1d08110b803fcdd4
 a mi propósito i dejar a Ud en camino
 de poder realizar su obra en las
 proporciones que me indica.

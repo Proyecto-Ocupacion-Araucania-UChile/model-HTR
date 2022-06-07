@@ -20,7 +20,11 @@ cho se puede mandar fierro galvanizado. En cuanto
 a herramientas te iran por el Independencia que sale
 el 23 y que estará en Lebu el 26.
 Tambien procuro ver modo de arreglar la
+<<<<<<< HEAD
 Valp^o, Feb^o 211860
+=======
+Valpᵒ, Febᵒ 211860
+>>>>>>> 22f3f43fead24af7c028e01c1d08110b803fcdd4
 2
 S D Mauricio Barboza
 Mi querido negro:

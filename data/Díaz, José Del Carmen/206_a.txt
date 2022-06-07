@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Gob^o Interior, de
 Arauco, Enero 5 de 1860
 Por el Señor Intendente de la Prov^o, con fecha
@@ -6,6 +7,16 @@ sigue.
 N^o 7
 Hoy emprendo mi marcha
 para Nacimt^o, afin de disponer la
+=======
+Gob° Interior, de
+Arauco, Enero 5 de 1860
+Por el Señor Intendente de la Prov°, con fecha
+1º del presente se me comunica lo que
+sigue.
+N° 7
+Hoy emprendo mi marcha
+para Nacimt°, afin de disponer la
+>>>>>>> 22f3f43fead24af7c028e01c1d08110b803fcdd4
 division que debo conducir asta el Ma-
 lleco, con el objeto de castigar a
 los indios rebeldes y restituir la
@@ -16,7 +27,11 @@ marcha desde Nacimiento el cinco
 del corriente. Comuniquelo al Señor
 Coronel Barbosa; y sin prejuicio
 de mi ausencia comuníquese a la
+<<<<<<< HEAD
 Intend^a con la frecuencia que pue-
+=======
+Intendᵃ con la frecuencia que pue-
+>>>>>>> 22f3f43fead24af7c028e01c1d08110b803fcdd4
 da toda ocurrencia digna de inte-
 rés. Dios guarde a Ud. Vicente Villalón.
 Al Gobierno de Arauco.

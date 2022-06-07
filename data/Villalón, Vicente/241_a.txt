@@ -9,7 +9,11 @@ para lo sucesivo de una manera estable
 la tranquilidad, buen orden i el libre ejer-
 cicio de la industria en el depart^0 de
 Arauco, i todas las medidas que Ud piensa
+<<<<<<< HEAD
 tomar son de la aprobacion de la Intend^a, que-
+=======
+tomar son de la aprobacion de la Intendᵃ, que-
+>>>>>>> 22f3f43fead24af7c028e01c1d08110b803fcdd4
 dando Ud suficientemente, autorizado para
 llevarlas a efecto.
 Únicamente tengo que prevenirle
@@ -18,7 +22,11 @@ obligar a los indios a la paz el que uno
 o mas caciques cedan parte o el todo
 de sus bienes a favor al Estado en in-
 demnizacion de los gastos causados en el
+<<<<<<< HEAD
 restablecimiento del depart^o. Si, como
+=======
+restablecimiento del departᵒ. Si, como
+>>>>>>> 22f3f43fead24af7c028e01c1d08110b803fcdd4
 precio de la páz se puede obtener esto
 sin tener que vencer mayores dificul-
 tades, la cosa sería de saludables efec-
@@ -27,10 +35,19 @@ empeñarse en nuevos embarazos
 Asi que Ud .concluya con los indios
 su tratado, espero que me dará una razon
 circunstanciada de él para someterlo al
+<<<<<<< HEAD
 conocimt^o del Supremo Gobierno.
 Angeles, Febrero 11 de 1860
 N^o33
 40
 1
 xxxomand^e en Jefe de la Divicion
+=======
+conocimtᵒ del Supremo Gobierno.
+Angeles, Febrero 11 de 1860
+N°33
+40
+1
+[C]omandᵉ en Jefe de la Divicion
+>>>>>>> 22f3f43fead24af7c028e01c1d08110b803fcdd4
 de Operaciones de Arauco

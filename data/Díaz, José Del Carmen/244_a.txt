@@ -2,7 +2,11 @@ Señor Coronel.
 Don Mauricio Barbosa.
 Mui Sñr mío.
 He recibido su apreciable, con ductor
+<<<<<<< HEAD
 de ella el Señor D^n Anselmo Rios.
+=======
+de ella el Señor Dⁿ Anselmo Rios.
+>>>>>>> 22f3f43fead24af7c028e01c1d08110b803fcdd4
 Juan de Dios Fuentes me entregó
 catorce animales bacunos, sesenta i dos lanar
 i diez i seis cabalgar entre potrillos, cuyos ani-
@@ -24,5 +28,9 @@ que es efectivo la entrega que hizo Fuen-
 tes de animales, mas no se de que modo
 han sido habidos por el que los arriaba.
 No dudo Señor que U. me orde-
+<<<<<<< HEAD
 Arauco, Feb^o 18 de 1860
+=======
+Arauco, Febᵒ 18 de 1860
+>>>>>>> 22f3f43fead24af7c028e01c1d08110b803fcdd4
 1

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Señor Coronel D^n Mauricio Barbosa
 Señor de mi respeto.
 Recibí su apreciable fha. 19 del pte.
@@ -6,6 +7,16 @@ Hasta la fha no he recibido el parte que
 U. me dice delo ocurrido el 17, por este motivo todabia
 no he dado cuenta al Sñr Intend^te de la prov^a ni al
 de Concep^n, por que nada sé depositivo.
+=======
+Señor Coronel Dⁿ Mauricio Barbosa
+Señor de mi respeto.
+Recibí su apreciable fha. 19 del pte.
+por conducto de Dⁿ Teodoro Moner.
+Hasta la fha no he recibido el parte que
+U. me dice delo ocurrido el 17, por este motivo todabia
+no he dado cuenta al Sñr Intendᵗᵉ de la provᵃ ni al
+de Concepⁿ, por que nada sé depositivo.
+>>>>>>> 22f3f43fead24af7c028e01c1d08110b803fcdd4
 Todas las comunicaciones que U. se sir-
 ve mandarme llegan aquí muy atrasadas segun sus
 fechas, por lo que creo los propios no son exactos.

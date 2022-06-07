@@ -12,7 +12,11 @@ fesar que se hallaba en relacion con el cacique Me-
 lin uq eu habiendo recibido dos correos habia callado a
 los demás caciques el contenido de su embajada, por-
 que no creyó necesario tal aviso. Segun Mariñán
+<<<<<<< HEAD
 el objeto del 1^er correo mandado por Melin se reduce
+=======
+el objeto del 1ᵉʳ correo mandado por Melin se reduce
+>>>>>>> 22f3f43fead24af7c028e01c1d08110b803fcdd4
 a advertirle que varios mocetones de ma costa llevaban
 a sus tolderias malas palabras con las que anuncia-
 ban muchas veces un malon de nuestra parte y

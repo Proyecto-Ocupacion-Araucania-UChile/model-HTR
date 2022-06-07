@@ -9,13 +9,21 @@ treinta hombres demi cuerpo que Ud
 mandó a Lota i Coronel, he sabido se
 hallan en Santa Juana, por haberlo
 benido abuscar el Gobernador Abello.
+<<<<<<< HEAD
 D^n Manuel Pomar se halla algo
+=======
+Dⁿ Manuel Pomar se halla algo
+>>>>>>> 22f3f43fead24af7c028e01c1d08110b803fcdd4
 hirritado por unos 30 animales que le
 entregue, amí me hace cargos que yo le
 pague el talaje de ellos, cuando los entre-
 gue, i que Ud se halla mui difustado
 con migo por las medidas que he tomado,
+<<<<<<< HEAD
 referente a los animales. Cuando Ud llegxxx
+=======
+referente a los animales. Cuando Ud lleg[ue]
+>>>>>>> 22f3f43fead24af7c028e01c1d08110b803fcdd4
 se serciorará demis procedimientos legales i
 de buena fé que he echo.
 2

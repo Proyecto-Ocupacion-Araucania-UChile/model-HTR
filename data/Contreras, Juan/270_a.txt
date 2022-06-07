@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 El Comand^te accidental de las fuerzas
 situadas en Tucapel, me da aviso con
 fecha 9 del corr^te de haber recibido parte
+=======
+El Comandᵗᵉ accidental de las fuerzas
+situadas en Tucapel, me da aviso con
+fecha 9 del corrᵗᵉ de haber recibido parte
+>>>>>>> 22f3f43fead24af7c028e01c1d08110b803fcdd4
 de buena autoridad que los Indios Hui
 liches i Lelbunches se dirijen a atacar
 a los indios amigos por cuatro puntos
@@ -15,6 +21,11 @@ Arauco, Mayo 11 de 1860.
 1
 Dios gue a Ud,
 Juan Contreras
+<<<<<<< HEAD
 S^n Coronoel, Com^te en Jefe
 de la Div^n de Operaciones
+=======
+Sⁿ Coronoel, Comᵗᵉ en Jefe
+de la Divⁿ de Operaciones
+>>>>>>> 22f3f43fead24af7c028e01c1d08110b803fcdd4
 sobre Arauco

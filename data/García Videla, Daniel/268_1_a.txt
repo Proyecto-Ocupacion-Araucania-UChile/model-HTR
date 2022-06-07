@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Comand^a accidental
+=======
+Comandᵃ accidental
+>>>>>>> 22f3f43fead24af7c028e01c1d08110b803fcdd4
 de la División de Operaciones de Arauco
 Hoi a las 5 1/2 de la tarde reci-
 bí un correo del cacique Lepin, en

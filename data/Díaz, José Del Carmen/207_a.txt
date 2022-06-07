@@ -1,11 +1,21 @@
+<<<<<<< HEAD
 Señor Coronel D^n Mauricio Barbosa
+=======
+Señor Coronel Dⁿ Mauricio Barbosa
+>>>>>>> 22f3f43fead24af7c028e01c1d08110b803fcdd4
 Tirua
 Mui Señor mio.
 Logre la oportunidad para salu-
 darlo.
+<<<<<<< HEAD
 En este depart^o no hay novedad ninguna, ni
 tengo nada de particular que anunciarle.
 La division que manda el Señor
+=======
+En este departᵒ no hay novedad ninguna, ni
+tengo nada de particular que anunciarle.
+La division que manda el Seño[r]
+>>>>>>> 22f3f43fead24af7c028e01c1d08110b803fcdd4
 Coronel Villalon, ha entrado por Nacimiento el
 seis del pte con dirección a Malleco, como ya
 selo he anunciado en nota oficial.
@@ -15,6 +25,7 @@ i han muerto como veinte españoles, indios nin-
 guno: esto seme ha comunicado particularmente de
 Los Ángeles.
 ha quitado como 60 animales bacunos a los indios de
+<<<<<<< HEAD
 El Comisionado D^n Guillermo Cohas
 Merilupo, estos fueron muy comprometidos en toda
 la reyerta. Yo he determinado dar estos anima-
@@ -22,6 +33,15 @@ les a D^n Manuel Pomar bajo un recibo, espexxx-
 ficando las calidades, pues yo no tengo donde poxxx
 animales, por haberse acabado el pasto en la cha-
 cra del Gob^o. Me quedan algunos para la
+=======
+El Comisionado Dⁿ Guillermo Cohas
+Merilupo, estos fueron muy comprometidos en toda
+la reyerta. Yo he determinado dar estos anima-
+les a Dⁿ Manuel Pomar bajo un recibo, espexxx-
+ficando las calidades, pues yo no tengo donde poxxx
+animales, por haberse acabado el pasto en la cha-
+cra del Gobᵒ. Me quedan algunos para la
+>>>>>>> 22f3f43fead24af7c028e01c1d08110b803fcdd4
 mantención demi tropa.
 Arauco, Enero 10 de 1860
 1

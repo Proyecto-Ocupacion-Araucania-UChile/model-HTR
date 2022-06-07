@@ -27,7 +27,11 @@ Angeles, Julio 3 de 1860
 Nº 124
 44
 1
+<<<<<<< HEAD
 Al Comand^te de
+=======
+Al Comandᵗᵉ de
+>>>>>>> 22f3f43fead24af7c028e01c1d08110b803fcdd4
 Armas de Arauco
 Dios gu~e a Ud
 Vicente Villalón

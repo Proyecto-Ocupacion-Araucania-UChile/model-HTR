@@ -1,12 +1,21 @@
+<<<<<<< HEAD
 Comand^a de armas
 Se há recibido en esta Comand^a la nota de Ud,
+=======
+Comandᵃ de armas
+Se há recibido en esta Comandᵃ la nota de Ud,
+>>>>>>> 22f3f43fead24af7c028e01c1d08110b803fcdd4
 fha 25 del presente, donde se sirve participar-
 me su traslado de Tirua a Quirico, todo lo
 cual he puesto en conocimiento a las autoridades
 correspondientes.
 Con fha de hoi hé recibido el parte
 oficial que Ud se ha servido remitir a esta Co-
+<<<<<<< HEAD
 mand^a del acontecimiento del 17 con los indi-
+=======
+mandᵃ del acontecimiento del 17 con los indi-
+>>>>>>> 22f3f43fead24af7c028e01c1d08110b803fcdd4
 os de la Imperial. Cuya nota ha sido en
 mi poder muy atrasada, aun que yá me
 havía abanzado transmitir estas noticias
@@ -15,7 +24,11 @@ extra judicialmente.
 Arauco, Enero 27 de 1860
 1
 Dios gu~e a Ud,
+<<<<<<< HEAD
 Al Señor Coronel Comand^te
+=======
+Al Señor Coronel Comandᵗᵉ
+>>>>>>> 22f3f43fead24af7c028e01c1d08110b803fcdd4
 en Jefe de la Division de Ope-
 raciones de Arauco
 J del C. Diaz

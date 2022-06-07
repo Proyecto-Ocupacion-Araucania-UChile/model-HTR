@@ -1,24 +1,42 @@
+<<<<<<< HEAD
 Comand^a de armas
 Por la Intendencia fha 30 de Dic^b del año
 pp^do se me comunica lo que sigue.
+=======
+Comandᵃ de armas
+Por la Intendencia fha 30 de Dicᵇ del año
+ppᵈᵒ se me comunica lo que sigue.
+>>>>>>> 22f3f43fead24af7c028e01c1d08110b803fcdd4
 Ángeles, Diciembre
 30 de 1859 = Por el ministerio de la guerra con
 fha 21 del que rije se me comunica el Supremo
 Decreto que sigue = Con lo expuesto en la nota que
 precede del Intendente de Arauco, nombran Coman-
 dante de armas del Departamento del mismo
+<<<<<<< HEAD
 nombre al Coronel graduado, Comand^te del Bata-
 llón 5º de línea D^n Mauricio Barbosa. Tóme-
 se razón y comuníquese. Lo transcribo a Ud
 para su conocimiento y fines consiguientes =
 D^s gu~e a Ud = Vicente Billalon. Al
+=======
+nombre al Coronel graduado, Comandᵗᵉ del Bata-
+llón 5º de línea Dⁿ Mauricio Barbosa. Tóme-
+se razón y comuníquese. Lo transcribo a Ud
+para su conocimiento y fines consiguientes =
+Dˢ gu~e a Ud = Vicente Billalon. Al
+>>>>>>> 22f3f43fead24af7c028e01c1d08110b803fcdd4
 Gobernador de Arauco.
 Yo lo transcribo a Ud para su conocimien-
 to.
 Arauco, Enero 27 de 1860
 1
 J del C. Diaz
+<<<<<<< HEAD
 Al Señor Coronel Comand^te
+=======
+Al Señor Coronel Comandᵗᵉ
+>>>>>>> 22f3f43fead24af7c028e01c1d08110b803fcdd4
 en Jefe dela División de Ope-
 raciones de Arauco
 Dios gu~e a Ud,

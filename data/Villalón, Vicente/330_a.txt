@@ -8,10 +8,18 @@ tirá Ud la pieza de Artilleria de calibre de
 á cuatro que hai en esa guarnición con todos
 sus utiles i municiones, dejando Ud los dos obuses
 que tiene alli para el servicio que haya lugar.
+<<<<<<< HEAD
 N^o110
 1
 Al Comand^te de
 Armas de Arauco
 Angeles Oct^e 18 de 1860.
+=======
+N°110
+1
+Al Comandᵗᵉ de
+Armas de Arauco
+Angeles Octᵉ 18 de 1860.
+>>>>>>> 22f3f43fead24af7c028e01c1d08110b803fcdd4
 Dios gu~e á Ud
 Vicente Villalon

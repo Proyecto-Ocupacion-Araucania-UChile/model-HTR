@@ -12,13 +12,21 @@ tus operaciones para concluir con la montonera de
 Silva. fíjate en castigar a los españoles i en darla
 de protector de los indios a fui y éstos no admitan
 en su tierra a gente tan perjudicial. Te digo
+<<<<<<< HEAD
 q^e abrevies tus operaciones para q en un caso esto
+=======
+qᵉ abrevies tus operaciones para q en un caso esto
+>>>>>>> 22f3f43fead24af7c028e01c1d08110b803fcdd4
 preceir abandonar tu puesto no dejes la cosa en
 peor estado. Temores reales no hay pr q tenerlos, po lo
 q se necesita es evitar la posibilidad siquiera de que
 apareciese una aromada en tal o cual puesto, pues
 esto se claro enditane altamente en el exterior.
+<<<<<<< HEAD
 Valp^o, Nbre 16 de 1859
+=======
+Valpᵒ, Nbre 16 de 1859
+>>>>>>> 22f3f43fead24af7c028e01c1d08110b803fcdd4
 9
 1
 Te deseo salud; y buena fortuna, tu

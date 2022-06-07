@@ -10,8 +10,13 @@ chando así te comprometía ó hacen mas di-
 latados tus procedimientos? Yo no sé que pen-
 sar, en aquella division tienen elementos
 superiores a la tuya, anda soy seguro he-
+<<<<<<< HEAD
 chando á perder al Ten^te Coronel de Art^a
 é In^te D^n José T. Gonzales y quien sabe
+=======
+chando á perder al Tenᵗᵉ Coronel de Artᵃ
+é Inᵗᵉ Dⁿ José T. Gonzales y quien sabe
+>>>>>>> 22f3f43fead24af7c028e01c1d08110b803fcdd4
 cuantos personajes como este: en tu pobre
 y afortunada manufactura de angelitos,
 no hay notabilidades, pero vive Dios, que
@@ -30,7 +35,11 @@ volverian á hacer correr mas balas.
 Por estos lugares todo marcha en paz;  pero
 los hombres parece que viven calculando en el
 fonto que tienen soñando y que nosotros velamos.
+<<<<<<< HEAD
 En la carta adjunta verás que me reitera d^n
+=======
+En la carta adjunta verás que me reitera dⁿ
+>>>>>>> 22f3f43fead24af7c028e01c1d08110b803fcdd4
 Cornelio el mismo asunto y juzgando yo que
 en caso de haberse realizado en el Perú el
 negocio de las armas deben llegar por mo-
