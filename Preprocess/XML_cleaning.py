@@ -47,8 +47,9 @@ def journal_error(path, file, n, type):
             f.write("\n")
 
 @click.command()
+@click.option("-s", "--superscript", "superscript", is_flag=True, show_default=True, default=False, help="To transform superscript characters")
 @click.option("-t", "--txt", "txt", is_flag=True, show_default=True, default=False, help="To scribe and clean text files")
-def clean_model_regex(txt):
+def clean_model_regex(txt, superscript):
     """
     Function to clean xml or scribe and clean txt files in folder ALTO BRUT with regex to write a cleaned outpout xml/txt
     return: xml/txt files cleaned
@@ -69,7 +70,6 @@ def clean_model_regex(txt):
                             correction = re.search(correction_pattern, lines)
                             correction_read = re.search(correction_read_pattern, lines)
                             borred = re.search(borred_pattern, lines)
-                            superscript = re.search(superscript_pattern, lines)
                             if unread is not None:
                                 lines = re.sub(unreadable_pattern, "xxx", lines)
                             if correction is not None:
@@ -78,8 +78,10 @@ def clean_model_regex(txt):
                                 lines = re.sub(correction_read_pattern, (lambda m: m.group(1)), lines)
                             if borred is not None:
                                 lines = re.sub(borred_pattern, "xxx", lines)
-                            if superscript is not None:
-                                lines = re.sub(superscript_pattern, lambda m: to_superscript(m[1]), lines)
+                            if superscript:
+                                superscript_src = re.search(superscript_pattern, lines)
+                                if superscript_src is not None:
+                                    lines = re.sub(superscript_pattern, lambda m: to_superscript(m[1]), lines)
                             write_file.write(lines)
                             write_file.write("\n")
                     except Exception as erreurs:
