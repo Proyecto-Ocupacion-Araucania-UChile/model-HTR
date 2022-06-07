@@ -19,11 +19,7 @@ Espero la salida de algun buque de guerra para esa para
 mandarle el techo de fierro, el que no pudo llevar el Maule por
 fxxxlta de capacidad.
 S.S.
-<<<<<<< HEAD
 Valparaiso, Set^e 10160
-=======
-Valparaiso, Setᵉ 10160
->>>>>>> 22f3f43fead24af7c028e01c1d08110b803fcdd4
 1
 Cornelio Saavedra
 Deseo te conserves bueno y dispongas de tu amigo

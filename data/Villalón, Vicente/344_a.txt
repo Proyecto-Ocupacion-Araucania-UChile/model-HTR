@@ -2,11 +2,7 @@ Son las cinco de la tarde
 Dios gu~e a Ud
 Al Comandante
 de Armas de Arauco
-<<<<<<< HEAD
 Angeles, Oct^e 25 de 1860
-=======
-Angeles, Octᵉ 25 de 1860
->>>>>>> 22f3f43fead24af7c028e01c1d08110b803fcdd4
 Impuesto del contenido de su nota, fha
 de ayer, he dispuesto que cien hombres
 del Regimiento de Cazadores a caballo

@@ -1,9 +1,5 @@
 Vapor Maipú
-<<<<<<< HEAD
 Ancla en Lota, Nov^e 26 de 1859
-=======
-Ancla en Lota, Novᵉ 26 de 1859
->>>>>>> 22f3f43fead24af7c028e01c1d08110b803fcdd4
 Antes de la 7 ha fondeado en
 este puerto el vapor Independen-
 cia con procedencia de Valparaiso
@@ -25,11 +21,7 @@ tiempo está lluvioso y sin embargo
 de correr viento norte, la aguada
 se está haciendo.
 Le incluyo el oficio que para
-<<<<<<< HEAD
 Ud me ha entregado el Comand^te
-=======
-Ud me ha entregado el Comandᵗᵉ
->>>>>>> 22f3f43fead24af7c028e01c1d08110b803fcdd4
 del Independencia. Dela llegada
 de la tropa, doi cuenta a la Inten-
 dencia.
@@ -37,16 +29,8 @@ xxxntestada en
 mismo día
 18
 1
-<<<<<<< HEAD
 Sñr Coronel Comand^te
 Jefe de la Division de operaciones
 Arauco
 Dios gu~e á Ud
 Manuel 2^o Escala
-=======
-Sñr Coronel Comandᵗᵉ
-Jefe de la Division de operaciones
-Arauco
-Dios gu~e á Ud
-Manuel 2° Escala
->>>>>>> 22f3f43fead24af7c028e01c1d08110b803fcdd4

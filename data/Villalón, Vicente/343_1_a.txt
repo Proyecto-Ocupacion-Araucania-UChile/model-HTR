@@ -3,11 +3,7 @@ CHILE
 Por las notas de Ud  , de 22 i 23 del mes
 Corriente, quedo impuesto, que los indios
 en número de mas de dos mil, a-
-<<<<<<< HEAD
 magan el depart^o de su mando i
-=======
-magan el departᵒ de su mando i
->>>>>>> 22f3f43fead24af7c028e01c1d08110b803fcdd4
 que Ud por defecto de instrucciones pa-
 ra obrar i por carecer de fuerza de
 Caballería no puede decidirse a re-
@@ -15,11 +11,7 @@ primir sus avances. En contestación
 a sus citadas notas, debo manifes-
 tar a Ud que al destinarse el bata-
 llon de su mando a la guarni-
-<<<<<<< HEAD
 ción de ese depart^o no se ha
-=======
-ción de ese departᵒ no se ha
->>>>>>> 22f3f43fead24af7c028e01c1d08110b803fcdd4
 tenido en vista otro objeto que
 colocar a Ud en situacion de po-
 der mantener la tranquilidad i
@@ -33,14 +25,7 @@ xxxensamiento se ha manifestado a
 Ud en notas particulares i berval-
 mente se le hizo presente en esta
 Ángeles, Otbre 25 de 1860.
-<<<<<<< HEAD
 N^o178
 1
 Al Comand^te de Ar^s
 del Depart^o de Arauco.
-=======
-N°178
-1
-Al Comandᵗᵉ de Arˢ
-del Departᵒ de Arauco.
->>>>>>> 22f3f43fead24af7c028e01c1d08110b803fcdd4

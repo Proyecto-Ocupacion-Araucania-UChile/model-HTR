@@ -9,22 +9,13 @@ yo estoi bien cierto que desde mi sali-
 da de Arauco hasta la llegada del Coman-
 dante aquí no ha habido ni una acción
 aprehensible de parte de oficiales y tropa.
-<<<<<<< HEAD
 A la llegada del Comand^te los gal-
-=======
-A la llegada del Comandᵗᵉ los gal-
->>>>>>> 22f3f43fead24af7c028e01c1d08110b803fcdd4
 pones que hice construir para la tropa
 tocaban a su fin, mediante a lo cu-
 al está regularmente alojada. En con-
 clusion, yo he hecho lo posible por dejar
-<<<<<<< HEAD
 bien puesto el nombre i estoi seguro q^e
 el Comand^te está contento de mí; pues
-=======
-bien puesto el nombre i estoi seguro qᵉ
-el Comandᵗᵉ está contento de mí; pues
->>>>>>> 22f3f43fead24af7c028e01c1d08110b803fcdd4
 ni un desertor he tenido en toda la tro-
 pa mientras yo la mandé.
 Solo me resta decirle que

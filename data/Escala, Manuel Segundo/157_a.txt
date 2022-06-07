@@ -1,23 +1,13 @@
-<<<<<<< HEAD
 Al ancla frente a la ciudad de Arauco, Nov^e 19 de 1859.
-=======
-Al ancla frente a la ciudad de Arauco, Novᵉ 19 de 1859.
->>>>>>> 22f3f43fead24af7c028e01c1d08110b803fcdd4
 Señor
 Tengo el sentimiento de poner en conocimiento
 de Ud. que en los momentos de estar haciendo fuego
 con la artillería para contener el gran número de
 indios que intentaba invadir esta ciudad, hizo
 explosión el cañón Nº 2, causando la muerte ins-
-<<<<<<< HEAD
 tantáneamente al 1^er cargador Marinero 2º Francisco
 Ojeda, el cual tan luego como cayó al agua se
 fué a pique, y al segundo cargador Mar^o 1^o
-=======
-tantáneamente al 1ᵉʳ cargador Marinero 2º Francisco
-Ojeda, el cual tan luego como cayó al agua se
-fué a pique, y al segundo cargador Marᵒ 1º
->>>>>>> 22f3f43fead24af7c028e01c1d08110b803fcdd4
 José Ochoa le costó el brazo derecho.
 El cabo de la fiesa, Guardian 2º
 Luís Lopez queda en clase de preso y a dispo-
@@ -27,13 +17,8 @@ su parte.
 10
 1
 Dios gu~e a Ud,
-<<<<<<< HEAD
 Manuel 2^o Escala
 Al Coronel Comand^te
-=======
-Manuel 2° Escala
-Al Coronel Comandᵗᵉ
->>>>>>> 22f3f43fead24af7c028e01c1d08110b803fcdd4
 en Jefe de la División de
 Operaciones del Territorio de
 Arauco

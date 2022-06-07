@@ -1,11 +1,7 @@
 El reo Juan Elmorilla que hoi me
 lo han remitido de Santa Juana, me aseguran que es
 hombre mui malo: este fué el que hizo pasearse por las
-<<<<<<< HEAD
 calles amarrado por detras al Cap^n Gaete de Civicos, quien
-=======
-calles amarrado por detras al Capⁿ Gaete de Civicos, quien
->>>>>>> 22f3f43fead24af7c028e01c1d08110b803fcdd4
 lo informará a U. la clase de pajaro que es el tal Elmor-
 illa, compañero de Patricio Silva. Espero su orden obrar con
 este Sargento mayor.

@@ -5,11 +5,7 @@ handan barios lavrones baliendose del nombre de
 He tenido noticias que de Lebu paréce
 esta Gubernatura para quitar animales. Para
 evitar estos males, he mandado una partida de
-<<<<<<< HEAD
 ocho hombres al mando de D^n Jil Bargas, tanto
-=======
-ocho hombres al mando de Dⁿ Jil Bargas, tanto
->>>>>>> 22f3f43fead24af7c028e01c1d08110b803fcdd4
 para aprender los ladrones como por recojer anima-
 les de los extraídos dela divicion.
 alguna falta. Esta partida anda armada de
@@ -19,15 +15,9 @@ do alos desertores dela division.
 para Santa Juana han arriado más de 300
 Tambien he tenido noticias de que
 animales, ya he oficiado al Gobernador de ese
-<<<<<<< HEAD
 depart^o referente a los animales.
 acerse cargo dela administracion.
 D^n Fran^co del Río ha llegado
-=======
-depart° referente a los animales.
-acerse cargo dela administracion.
-Dⁿ Franᶜᵒ del Río ha llegado
->>>>>>> 22f3f43fead24af7c028e01c1d08110b803fcdd4
 piquete cívico que cubre este punto, cuya fuerza
 Hice pasar rebista de comisario al
 asciende a 17 hombres con los dos oficiales.
