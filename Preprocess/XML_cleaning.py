@@ -106,8 +106,10 @@ def clean_model_regex(txt, superscript):
                                 lines = re.sub(correction_read_pattern, (lambda m: m.group(1)), lines)
                             if borred is not None:
                                 lines = re.sub(borred_pattern, "xxx", lines)
-                            if superscript is not None:
-                                lines = re.sub(superscript_pattern, lambda m: to_superscript(m[1]), lines)
+                            if superscript:
+                                superscript_src = re.search(superscript_pattern, lines)
+                                if superscript_src is not None:
+                                    lines = re.sub(superscript_pattern, lambda m: to_superscript(m[1]), lines)
                             write_file.write(lines)
                             write_file.write("\n")
                     except Exception as erreurs:
