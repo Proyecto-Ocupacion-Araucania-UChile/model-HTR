@@ -55,7 +55,6 @@ def test_htr(model_name, transforms, verbosity, truncate, percent, round_digits)
     """
     for file in tqdm(os.listdir(os.path.join(current_folder, folder_data))):
         if file != "img":
-            model_name = f"{model_name}.mlmodel"
             name_img = os.path.basename(file).replace(".xml", ".jpg")
             ground_truth = os.path.join(current_folder, folder_data, file)
             image = os.path.join(current_folder, folder_data, f"img/{name_img}")
