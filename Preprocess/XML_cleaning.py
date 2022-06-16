@@ -97,7 +97,6 @@ def clean_model_regex(txt, superscript):
                             correction = re.search(correction_pattern, lines)
                             correction_read = re.search(correction_read_pattern, lines)
                             borred = re.search(borred_pattern, lines)
-                            superscript = re.search(superscript_pattern, lines)
                             if unread is not None:
                                 lines = re.sub(unreadable_pattern, "xxx", lines)
                             if correction is not None:
