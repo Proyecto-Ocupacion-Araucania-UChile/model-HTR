@@ -56,64 +56,65 @@ def clean_model_regex(txt, superscript):
     """
     clean = os.path.join(current_dir, ALTO_CLEAN)
     for file in os.listdir(os.path.join(current_dir, ALTO_BRUT)):
-        with open(os.path.join(current_dir, ALTO_BRUT, file), 'r') as f:
-            if txt:
-                file = file.replace(".xml", ".txt")
-                xml = etree.parse(f)
-                ns = {'alto': "http://www.loc.gov/standards/alto/ns-v4#"}
-                text = xml.xpath("//alto:String/@CONTENT", namespaces=ns)
-                with open(f"{clean}/{file}", 'w') as write_file:
-                    try:
-                        for n, lines in enumerate(text):
-                            lines = lines.replace("⁋", "")
-                            unread = re.search(unreadable_pattern, lines)
-                            correction = re.search(correction_pattern, lines)
-                            correction_read = re.search(correction_read_pattern, lines)
-                            borred = re.search(borred_pattern, lines)
-                            if unread is not None:
-                                lines = re.sub(unreadable_pattern, "xxx", lines)
-                            if correction is not None:
-                                lines = re.sub(correction_pattern, lambda m: m.group(1), lines)
-                            if correction_read is not None:
-                                lines = re.sub(correction_read_pattern, (lambda m: m.group(1)), lines)
-                            if borred is not None:
-                                lines = re.sub(borred_pattern, "xxx", lines)
-                            if superscript:
-                                superscript_src = re.search(superscript_pattern, lines)
-                                if superscript_src is not None:
-                                    lines = re.sub(superscript_pattern, lambda m: to_superscript(m[1]), lines)
-                            write_file.write(lines)
-                            write_file.write("\n")
-                    except Exception as erreurs:
-                        basename = os.path.basename(os.path.join(current_dir, ALTO_BRUT, file))
-                        journal_error(clean, basename, n, erreurs)
+        if not file.endswith(".md"):
+            with open(os.path.join(current_dir, ALTO_BRUT, file), 'r') as f:
+                if txt:
+                    file = file.replace(".xml", ".txt")
+                    xml = etree.parse(f)
+                    ns = {'alto': "http://www.loc.gov/standards/alto/ns-v4#"}
+                    text = xml.xpath("//alto:String/@CONTENT", namespaces=ns)
+                    with open(f"{clean}/{file}", 'w') as write_file:
+                        try:
+                            for n, lines in enumerate(text):
+                                lines = lines.replace("⁋", "")
+                                unread = re.search(unreadable_pattern, lines)
+                                correction = re.search(correction_pattern, lines)
+                                correction_read = re.search(correction_read_pattern, lines)
+                                borred = re.search(borred_pattern, lines)
+                                if unread is not None:
+                                    lines = re.sub(unreadable_pattern, "xxx", lines)
+                                if correction is not None:
+                                    lines = re.sub(correction_pattern, lambda m: m.group(1), lines)
+                                if correction_read is not None:
+                                    lines = re.sub(correction_read_pattern, (lambda m: m.group(1)), lines)
+                                if borred is not None:
+                                    lines = re.sub(borred_pattern, "xxx", lines)
+                                if superscript:
+                                    superscript_src = re.search(superscript_pattern, lines)
+                                    if superscript_src is not None:
+                                        lines = re.sub(superscript_pattern, lambda m: to_superscript(m[1]), lines)
+                                write_file.write(lines)
+                                write_file.write("\n")
+                        except Exception as erreurs:
+                            basename = os.path.basename(os.path.join(current_dir, ALTO_BRUT, file))
+                            journal_error(clean, basename, n, erreurs)
 
-            else:
-                xml = f.read()
-                with open(f"{clean}/{file}", 'w') as write_file:
-                    try:
-                        for n, lines in enumerate(xml.split('\n')):
-                            unread = re.search(unreadable_pattern, lines)
-                            correction = re.search(correction_pattern, lines)
-                            correction_read = re.search(correction_read_pattern, lines)
-                            borred = re.search(borred_pattern, lines)
-                            if unread is not None:
-                                lines = re.sub(unreadable_pattern, "xxx", lines)
-                            if correction is not None:
-                                lines = re.sub(correction_pattern, lambda m: m.group(1), lines)
-                            if correction_read is not None:
-                                lines = re.sub(correction_read_pattern, (lambda m: m.group(1)), lines)
-                            if borred is not None:
-                                lines = re.sub(borred_pattern, "xxx", lines)
-                            if superscript:
-                                superscript_src = re.search(superscript_pattern, lines)
-                                if superscript_src is not None:
-                                    lines = re.sub(superscript_pattern, lambda m: to_superscript(m[1]), lines)
-                            write_file.write(lines)
-                            write_file.write("\n")
-                    except Exception as erreurs:
-                        basename = os.path.basename(os.path.join(current_dir, ALTO_BRUT, file))
-                        journal_error(clean, basename, n, erreurs)
+                else:
+                    xml = f.read()
+                    with open(f"{clean}/{file}", 'w') as write_file:
+                        try:
+                            for n, lines in enumerate(xml.split('\n')):
+                                unread = re.search(unreadable_pattern, lines)
+                                correction = re.search(correction_pattern, lines)
+                                correction_read = re.search(correction_read_pattern, lines)
+                                borred = re.search(borred_pattern, lines)
+                                if unread is not None:
+                                    lines = re.sub(unreadable_pattern, "xxx", lines)
+                                if correction is not None:
+                                    lines = re.sub(correction_pattern, lambda m: m.group(1), lines)
+                                if correction_read is not None:
+                                    lines = re.sub(correction_read_pattern, (lambda m: m.group(1)), lines)
+                                if borred is not None:
+                                    lines = re.sub(borred_pattern, "xxx", lines)
+                                if superscript:
+                                    superscript_src = re.search(superscript_pattern, lines)
+                                    if superscript_src is not None:
+                                        lines = re.sub(superscript_pattern, lambda m: to_superscript(m[1]), lines)
+                                write_file.write(lines)
+                                write_file.write("\n")
+                        except Exception as erreurs:
+                            basename = os.path.basename(os.path.join(current_dir, ALTO_BRUT, file))
+                            journal_error(clean, basename, n, erreurs)
 
 
 if __name__ == '__main__':
