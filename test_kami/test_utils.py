@@ -25,7 +25,7 @@ author = {
     "215_1_b.xml": "Escala"
 }
 @click.command()
-@click.option("--model", "model_name", default=None, prompt="Model who want to test without extension")
+@click.option("--model", "model_name", default=None, prompt="Model who want to test (with extension)")
 @click.option("-t", "--transforms", default="XP",
               help="""Allows you to apply transforms to the text. 
                         D : Deletes all digits and numbers;
