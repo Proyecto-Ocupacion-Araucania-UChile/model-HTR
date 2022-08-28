@@ -1,27 +1,27 @@
-DATETIME,24_07_2022_15:20:23
+DATETIME,28_08_2022_12:42:57
 IMAGE,/home/rayondemiel/Bureau/Stage Araucanía/model_HTR/test_kami/data_test/ground_truth/img/244_a.jpg
 GROUND_TRUTH,/home/rayondemiel/Bureau/Stage Araucanía/model_HTR/test_kami/data_test/ground_truth/244_a.xml
 MODEL,/home/rayondemiel/Bureau/Stage Araucanía/model_HTR/test_kami/data_test/model/araucania_finetuning_McFrench_NKFD_best.mlmodel
-Total_char_removed_from_reference,19
+Total_char_removed_from_reference,21
 Total_char_removed_from_prediction,27
-Total_diacritics_removed_from_reference,22
+Total_diacritics_removed_from_reference,20
 Total_diacritics_removed_from_prediction,15
-Length_reference,972
+Length_reference,974
 Length_prediction,982
 Length_reference_transformed,953
 Length_prediction_transformed,955
 ,default,remove_punctuation,remove_diacritics,all_transforms
-levensthein_distance_char,43,37,25,19
-levensthein_distance_words,34,30,24,18
+levensthein_distance_char,39,35,23,19
+levensthein_distance_words,32,28,22,18
 hamming_distance,Ø,Ø,Ø,Ø
-wer,18.68,16.48,13.18,9.89
-cer,4.42,3.91,2.54,1.99
-wacc,81.31,83.51,86.81,90.1
-wer_hunt,18.13,15.93,12.63,9.34
-mer,4.36,3.87,2.52,1.98
-cil,6.83,6.43,3.82,3.32
-cip,93.16,93.56,96.17,96.67
-hits,943,917,964,938
-substitutions,25,25,13,13
+wer,17.58,15.38,12.08,9.89
+cer,4.0,3.7,2.33,1.99
+wacc,82.41,84.61,87.91,90.1
+wer_hunt,17.03,14.83,11.53,9.34
+mer,3.95,3.66,2.32,1.98
+cil,6.23,6.02,3.62,3.32
+cip,93.76,93.97,96.37,96.67
+hits,947,919,966,938
+substitutions,23,23,13,13
 deletions,4,2,4,2
-insertions,14,10,8,4
+insertions,12,10,6,4

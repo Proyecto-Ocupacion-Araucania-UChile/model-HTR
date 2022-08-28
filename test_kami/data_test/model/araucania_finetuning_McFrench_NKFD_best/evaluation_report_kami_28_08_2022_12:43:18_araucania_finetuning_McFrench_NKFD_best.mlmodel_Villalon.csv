@@ -1,4 +1,4 @@
-DATETIME,24_07_2022_15:20:44
+DATETIME,28_08_2022_12:43:18
 IMAGE,/home/rayondemiel/Bureau/Stage Araucanía/model_HTR/test_kami/data_test/ground_truth/img/173_1_b.jpg
 GROUND_TRUTH,/home/rayondemiel/Bureau/Stage Araucanía/model_HTR/test_kami/data_test/ground_truth/173_1_b.xml
 MODEL,/home/rayondemiel/Bureau/Stage Araucanía/model_HTR/test_kami/data_test/model/araucania_finetuning_McFrench_NKFD_best.mlmodel
