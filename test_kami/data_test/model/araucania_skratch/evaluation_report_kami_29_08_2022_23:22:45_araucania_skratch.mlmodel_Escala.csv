@@ -1,0 +1,27 @@
+DATETIME,29_08_2022_23:22:45
+IMAGE,/home/rayondemiel/Bureau/Stage Araucanía/model_HTR/test_kami/data_test/ground_truth/img/215_1_b.jpg
+GROUND_TRUTH,/home/rayondemiel/Bureau/Stage Araucanía/model_HTR/test_kami/data_test/ground_truth/215_1_b.xml
+MODEL,/home/rayondemiel/Bureau/Stage Araucanía/model_HTR/test_kami/data_test/model/araucania_skratch.mlmodel
+Total_char_removed_from_reference,44
+Total_char_removed_from_prediction,20
+Total_diacritics_removed_from_reference,38
+Total_diacritics_removed_from_prediction,18
+Length_reference,1910
+Length_prediction,1873
+Length_reference_transformed,1866
+Length_prediction_transformed,1853
+,default,remove_punctuation,remove_diacritics,all_transforms
+levensthein_distance_char,140,108,124,92
+levensthein_distance_words,107,84,94,69
+hamming_distance,Ø,Ø,Ø,Ø
+wer,30.22,23.72,26.55,19.49
+cer,7.32,5.8,6.47,4.93
+wacc,69.77,76.27,73.44,80.5
+wer_hunt,29.51,23.02,25.84,18.78
+mer,7.26,5.75,6.4,4.88
+cil,10.63,9.11,8.9,7.33
+cip,89.36,90.88,91.09,92.66
+hits,1788,1767,1811,1790
+substitutions,67,65,49,47
+deletions,55,28,56,29
+insertions,18,15,19,16
